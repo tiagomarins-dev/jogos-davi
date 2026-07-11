@@ -1,0 +1,5745 @@
+[
+ {
+  "slug": "vini-jr",
+  "nome": "Vini Jr",
+  "time": "Real Madrid",
+  "nacionalidade": "Brazil",
+  "posicao": "Left Wing",
+  "categoria": "selecao",
+  "nascimento": "2000-07-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Flamengo",
+    "periodo": "2005–2018",
+    "escudo": "flamengo.png"
+   },
+   {
+    "time": "Real Madrid B",
+    "periodo": "2018–2019",
+    "escudo": "real-madrid-b.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png",
+  "bio": "Cresceu em São Gonçalo, no Rio de Janeiro, e virou um dos dribladores mais rápidos do mundo. Ganhou a Champions League e fez gol em final!"
+ },
+ {
+  "slug": "neymar",
+  "nome": "Neymar",
+  "time": "Santos",
+  "nacionalidade": "Brazil",
+  "posicao": "Left Wing",
+  "categoria": "brasileirao",
+  "nascimento": "1992-02-05",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Santos FC",
+    "periodo": "2003–2013",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Brazil",
+    "periodo": "2010",
+    "escudo": "brazil.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2013–2017",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Paris SG",
+    "periodo": "2017–2023",
+    "escudo": "paris-sg.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/av4ar01767782947.png",
+  "bio": "O menino da Vila Belmiro que encantou o planeta com dribles mágicos. É um dos maiores artilheiros da história da seleção brasileira."
+ },
+ {
+  "slug": "messi",
+  "nome": "Messi",
+  "time": "Inter Miami",
+  "nacionalidade": "Argentina",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "1987-06-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Newells Old Boys",
+    "periodo": "1994–2000",
+    "escudo": "newells-old-boys.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2001–2021",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Barcelona B",
+    "periodo": "2004–2005",
+    "escudo": "barcelona-b.png"
+   },
+   {
+    "time": "Argentina",
+    "periodo": "2005",
+    "escudo": "argentina.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/e0i2051750317027.png",
+  "bio": "Muitos dizem que é o melhor jogador de todos os tempos. Ganhou a Copa do Mundo de 2022 e 8 Bolas de Ouro!"
+ },
+ {
+  "slug": "cristiano-ronaldo",
+  "nome": "Cristiano Ronaldo",
+  "time": "Al-Nassr",
+  "nacionalidade": "Portugal",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1985-02-05",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "CD Nacional de Madeira ",
+    "periodo": "1995–1997",
+    "escudo": "cd-nacional-de-madeira.png"
+   },
+   {
+    "time": "Sporting CP",
+    "periodo": "2002–2003",
+    "escudo": "sporting-cp.png"
+   },
+   {
+    "time": "Manchester United",
+    "periodo": "2003–2009",
+    "escudo": "manchester-united.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2009–2018",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Juventus",
+    "periodo": "2018–2021",
+    "escudo": "juventus.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/a19jje1761592498.png",
+  "bio": "O CR7 é uma máquina de fazer gols: passou de 900 na carreira! Famoso pelo grito de comemoração 'SIUUU!'."
+ },
+ {
+  "slug": "mbappe",
+  "nome": "Mbappé",
+  "time": "Real Madrid",
+  "nacionalidade": "France",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1998-12-20",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Monaco",
+    "periodo": "2013–2018",
+    "escudo": "monaco.png"
+   },
+   {
+    "time": "Paris SG",
+    "periodo": "2017–2024",
+    "escudo": "paris-sg.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
+  "bio": "Velocista francês que ganhou a Copa do Mundo com só 19 anos e fez 3 gols numa final de Copa!"
+ },
+ {
+  "slug": "haaland",
+  "nome": "Haaland",
+  "time": "Manchester City",
+  "nacionalidade": "Norway",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "2000-07-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Bryne",
+    "periodo": "2006–2017",
+    "escudo": "bryne.png"
+   },
+   {
+    "time": "Molde",
+    "periodo": "2017–2019",
+    "escudo": "molde.png"
+   },
+   {
+    "time": "SV Salzburg",
+    "periodo": "2019–2020",
+    "escudo": "sv-salzburg.png"
+   },
+   {
+    "time": "Dortmund",
+    "periodo": "2020–2022",
+    "escudo": "dortmund.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
+  "bio": "Gigante norueguês de quase 2 metros que devora gols. Parece um robô de fazer gol — e comemora meditando!"
+ },
+ {
+  "slug": "lamine-yamal",
+  "nome": "Lamine Yamal",
+  "time": "Barcelona",
+  "nacionalidade": "Spain",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "2007-07-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Barcelona Youth",
+    "periodo": "2013–2023",
+    "escudo": "barcelona-youth.png"
+   },
+   {
+    "time": "Barcelona Atlètic",
+    "periodo": "2023–2024",
+    "escudo": "barcelona-atletic.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/m9n4ja1761512633.png",
+  "bio": "Menino-prodígio espanhol: com 16 anos já brilhava, e com 17 foi campeão da Eurocopa. Canhoto de ouro!"
+ },
+ {
+  "slug": "bellingham",
+  "nome": "Bellingham",
+  "time": "Real Madrid",
+  "nacionalidade": "England",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "2003-06-29",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Birmingham",
+    "periodo": "2019–2020",
+    "escudo": "birmingham.png"
+   },
+   {
+    "time": "Dortmund",
+    "periodo": "2020–2023",
+    "escudo": "dortmund.png"
+   },
+   {
+    "time": "England U21",
+    "periodo": "2020",
+    "escudo": "england-u21.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/trk5271750271712.png",
+  "bio": "Inglês elegante que chegou ao Real Madrid e virou ídolo rapidinho. Comemora de braços abertos!"
+ },
+ {
+  "slug": "rodrygo",
+  "nome": "Rodrygo",
+  "time": "Real Madrid",
+  "nacionalidade": "Brazil",
+  "posicao": "Right Winger",
+  "categoria": "selecao",
+  "nascimento": "2001-01-09",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Santos FC",
+    "periodo": "2011–2019",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Real Madrid Castilla",
+    "periodo": "2019",
+    "escudo": "real-madrid-castilla.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/uzoghw1733653286.png",
+  "bio": "O 'Raio' de Osasco brilha nas noites de Champions League. Já fez gols decisivos em mata-matas gigantes."
+ },
+ {
+  "slug": "raphinha",
+  "nome": "Raphinha",
+  "time": "Barcelona",
+  "nacionalidade": "Brazil",
+  "posicao": "Left Wing",
+  "categoria": "selecao",
+  "nascimento": "1996-12-14",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Avai FC",
+    "periodo": "2015–2016",
+    "escudo": "avai-fc.png"
+   },
+   {
+    "time": "Vitória de Guimarães B",
+    "periodo": "2016",
+    "escudo": "vitoria-de-guimaraes-b.png"
+   },
+   {
+    "time": "Vitoria",
+    "periodo": "2016–2018",
+    "escudo": "vitoria.png"
+   },
+   {
+    "time": "Sporting CP",
+    "periodo": "2018–2019",
+    "escudo": "sporting-cp.png"
+   },
+   {
+    "time": "Rennes",
+    "periodo": "2019–2020",
+    "escudo": "rennes.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/w94spe1726510018.png",
+  "bio": "Ponta gaúcho que adora cortar pra dentro e chutar forte. Foi um dos líderes do Barcelona em temporadas de muitos gols."
+ },
+ {
+  "slug": "romario",
+  "nome": "Romário",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Forward",
+  "categoria": "lenda",
+  "nascimento": "1966-01-29",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Vasco da Gama",
+    "periodo": "1985–1988",
+    "escudo": "vasco-da-gama.png"
+   },
+   {
+    "time": "PSV Eindhoven",
+    "periodo": "1988–1993",
+    "escudo": "psv-eindhoven.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "1993–1995",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Flamengo",
+    "periodo": "1995–1996",
+    "escudo": "flamengo.png"
+   },
+   {
+    "time": "Fluminense",
+    "periodo": "2002–2004",
+    "escudo": "fluminense.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/j53jt41615744273.png",
+  "bio": "O 'Baixinho' era o rei da área: ganhou a Copa de 1994 pelo Brasil e marcou mais de 700 gols na carreira."
+ },
+ {
+  "slug": "roberto-carlos",
+  "nome": "Roberto Carlos",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Left-Back",
+  "categoria": "lenda",
+  "nascimento": "1973-04-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Palmeiras",
+    "periodo": "1993–1995",
+    "escudo": "palmeiras.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "1995–1996",
+    "escudo": "inter.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "1996–2007",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Fenerbahce",
+    "periodo": "2007–2009",
+    "escudo": "fenerbahce.png"
+   },
+   {
+    "time": "Corinthians",
+    "periodo": "2010–2011",
+    "escudo": "corinthians.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ypsxvy1483909094.png",
+  "bio": "Lateral com a perna esquerda mais potente da história. Sua falta 'impossível' contra a França desafiou a física!"
+ },
+ {
+  "slug": "ronaldinho",
+  "nome": "Ronaldinho",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "lenda",
+  "nascimento": "1980-03-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Gremio",
+    "periodo": "1998–2001",
+    "escudo": "gremio.png"
+   },
+   {
+    "time": "Paris SG",
+    "periodo": "2001–2003",
+    "escudo": "paris-sg.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2003–2008",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Milan",
+    "periodo": "2008–2011",
+    "escudo": "milan.png"
+   },
+   {
+    "time": "Flamengo",
+    "periodo": "2011–2012",
+    "escudo": "flamengo.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/u91au61586868506.png",
+  "bio": "O Bruxo! Jogava futebol sorrindo e fazia mágica com a bola. Ganhou Copa, Champions e Bola de Ouro."
+ },
+ {
+  "slug": "kaka",
+  "nome": "Kaká",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "lenda",
+  "nascimento": "1982-04-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2001–2003",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Milan",
+    "periodo": "2003–2014",
+    "escudo": "milan.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2009–2013",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Orlando City",
+    "periodo": "2014–2017",
+    "escudo": "orlando-city.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/6uj1nl1665653279.png",
+  "bio": "Elegante e veloz, foi o melhor do mundo em 2007. Campeão da Copa de 2002 com o Brasil."
+ },
+ {
+  "slug": "lewandowski",
+  "nome": "Lewandowski",
+  "time": "Chicago Fire",
+  "nacionalidade": "Poland",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1988-08-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Legia Warsaw",
+    "periodo": "2005–2006",
+    "escudo": "legia-warsaw.png"
+   },
+   {
+    "time": "Znicz Pruszków",
+    "periodo": "2006–2008",
+    "escudo": "znicz-pruszkow.png"
+   },
+   {
+    "time": "Lech Poznan",
+    "periodo": "2008–2010",
+    "escudo": "lech-poznan.png"
+   },
+   {
+    "time": "Poland",
+    "periodo": "2008–2023",
+    "escudo": "poland.png"
+   },
+   {
+    "time": "Dortmund",
+    "periodo": "2010–2014",
+    "escudo": "dortmund.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/xg2rl51762289740.png",
+  "bio": "Artilheiro polonês que uma vez fez 5 gols em 9 minutos! Um dos maiores goleadores da história da Champions."
+ },
+ {
+  "slug": "salah",
+  "nome": "Salah",
+  "time": "Liverpool",
+  "nacionalidade": "Egypt",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "1992-06-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Al-Mokawloon al-Arab",
+    "periodo": "2006–2012",
+    "escudo": "al-mokawloon-al-arab.png"
+   },
+   {
+    "time": "FC Basel",
+    "periodo": "2012–2014",
+    "escudo": "fc-basel.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2014–2016",
+    "escudo": "chelsea.png"
+   },
+   {
+    "time": "Roma",
+    "periodo": "2016–2017",
+    "escudo": "roma.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png",
+  "bio": "O 'Faraó Egípcio' é ídolo em Liverpool. Corre pela direita, corta pra esquerda e... GOL!"
+ },
+ {
+  "slug": "harry-kane",
+  "nome": "Harry Kane",
+  "time": "Bayern Munich",
+  "nacionalidade": "England",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1993-07-28",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Tottenham",
+    "periodo": "2004–2009",
+    "escudo": "tottenham.png"
+   },
+   {
+    "time": "Leyton Orient",
+    "periodo": "2011",
+    "escudo": "leyton-orient.png"
+   },
+   {
+    "time": "Millwall",
+    "periodo": "2012",
+    "escudo": "millwall.png"
+   },
+   {
+    "time": "Norwich",
+    "periodo": "2012–2013",
+    "escudo": "norwich.png"
+   },
+   {
+    "time": "Leicester",
+    "periodo": "2013",
+    "escudo": "leicester.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png",
+  "bio": "O maior artilheiro da história da seleção inglesa. Um camisa 9 clássico, frio na hora do gol."
+ },
+ {
+  "slug": "endrick",
+  "nome": "Endrick",
+  "time": "Real Madrid",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "selecao",
+  "nascimento": "2006-07-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Palmeiras",
+    "periodo": "2022–2024",
+    "escudo": "palmeiras.png"
+   },
+   {
+    "time": "Lyon",
+    "periodo": "2026",
+    "escudo": "lyon.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png",
+  "bio": "Revelado no Palmeiras, foi vendido ao Real Madrid antes mesmo de completar 18 anos. Promessa de craque!"
+ },
+ {
+  "slug": "alisson",
+  "nome": "Alisson",
+  "time": "Liverpool",
+  "nacionalidade": "Brazil",
+  "posicao": "Goalkeeper",
+  "categoria": "selecao",
+  "nascimento": "1992-10-02",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Internacional",
+    "periodo": "2012–2016",
+    "escudo": "internacional.png"
+   },
+   {
+    "time": "Roma",
+    "periodo": "2016–2018",
+    "escudo": "roma.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8amq961757087569.png",
+  "bio": "Goleiro gaúcho gigante, famoso pelas defesas impossíveis. Já até marcou gol de cabeça no fim do jogo!"
+ },
+ {
+  "slug": "militao",
+  "nome": "Militão",
+  "time": "Real Madrid",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "selecao",
+  "nascimento": "1998-01-18",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2010–2018",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "FC Porto",
+    "periodo": "2018–2019",
+    "escudo": ""
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ecdm8b1733653628.png",
+  "bio": "Zagueiro forte e veloz de São Paulo, campeão da Champions League com o Real Madrid."
+ },
+ {
+  "slug": "marquinhos",
+  "nome": "Marquinhos",
+  "time": "Paris SG",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "selecao",
+  "nascimento": "1994-05-14",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Corinthians",
+    "periodo": "2002–2013",
+    "escudo": "corinthians.png"
+   },
+   {
+    "time": "Roma",
+    "periodo": "2012–2013",
+    "escudo": "roma.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/7x9gtl1766335348.png",
+  "bio": "Zagueiro paulista que virou capitão em Paris. Um dos defensores mais confiáveis da seleção."
+ },
+ {
+  "slug": "casemiro",
+  "nome": "Casemiro",
+  "time": "Manchester United",
+  "nacionalidade": "Brazil",
+  "posicao": "Defensive Midfield",
+  "categoria": "selecao",
+  "nascimento": "1992-02-23",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2002–2013",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2013–2022",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "FC Porto",
+    "periodo": "2014–2015",
+    "escudo": "fc-porto.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ydr3j41766826524.png",
+  "bio": "O 'xerife' do meio-campo: desarma tudo! Ganhou 5 Champions League com o Real Madrid."
+ },
+ {
+  "slug": "martinelli",
+  "nome": "Martinelli",
+  "time": "Arsenal",
+  "nacionalidade": "Brazil",
+  "posicao": "Left Wing",
+  "categoria": "selecao",
+  "nascimento": "2001-06-18",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Ituano",
+    "periodo": "2018–2019",
+    "escudo": "ituano.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2020",
+    "escudo": "brazil-u23.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png",
+  "bio": "Ponta rápido revelado no Ituano que conquistou Londres. Corre o jogo inteiro sem cansar!"
+ },
+ {
+  "slug": "gabriel-jesus",
+  "nome": "Gabriel Jesus",
+  "time": "Arsenal",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "selecao",
+  "nascimento": "1997-04-03",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Palmeiras",
+    "periodo": "2013–2017",
+    "escudo": "palmeiras.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2015–2016",
+    "escudo": "brazil-u23.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2017–2022",
+    "escudo": "manchester-city.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png",
+  "bio": "Saiu da várzea de São Paulo pintando meio-fio e chegou ao topo da Premier League. Comemora fazendo 'alô mãe'!"
+ },
+ {
+  "slug": "richarlison",
+  "nome": "Richarlison",
+  "time": "Tottenham Hotspur",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "selecao",
+  "nascimento": "1997-05-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "America MG",
+    "periodo": "2015–2016",
+    "escudo": "america-mg.png"
+   },
+   {
+    "time": "Fluminense",
+    "periodo": "2016–2017",
+    "escudo": "fluminense.png"
+   },
+   {
+    "time": "Watford",
+    "periodo": "2017–2018",
+    "escudo": "watford.png"
+   },
+   {
+    "time": "Everton",
+    "periodo": "2018–2022",
+    "escudo": "everton.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2020",
+    "escudo": "brazil-u23.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/qgim7p1757016148.png",
+  "bio": "O 'Pombo' fez um gol de voleio na Copa de 2022 que ganhou prêmio de mais bonito. Comemora dançando!"
+ },
+ {
+  "slug": "bruno-guimaraes",
+  "nome": "Bruno Guimarães",
+  "time": "Newcastle United",
+  "nacionalidade": "Brazil",
+  "posicao": "Defensive Midfield",
+  "categoria": "selecao",
+  "nascimento": "1997-11-16",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Atletico PR",
+    "periodo": "2017–2020",
+    "escudo": "atletico-pr.png"
+   },
+   {
+    "time": "Lyon",
+    "periodo": "2020–2022",
+    "escudo": "lyon.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2020",
+    "escudo": "brazil-u23.png"
+   },
+   {
+    "time": "Vasco da Gama",
+    "periodo": "",
+    "escudo": "vasco-da-gama.png"
+   },
+   {
+    "time": "Fluminense",
+    "periodo": "",
+    "escudo": "fluminense.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png",
+  "bio": "Meio-campista carioca que virou coração do Newcastle. Toca, marca e organiza tudo."
+ },
+ {
+  "slug": "arrascaeta",
+  "nome": "Arrascaeta",
+  "time": "Flamengo",
+  "nacionalidade": "Uruguay",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1994-06-01",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Defensor Sporting",
+    "periodo": "2007–2014",
+    "escudo": "defensor-sporting.png"
+   },
+   {
+    "time": "Cruzeiro",
+    "periodo": "2015–2018",
+    "escudo": "cruzeiro.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/2p9j0d1750919894.png",
+  "bio": "Uruguaio genial do Flamengo: canhota mágica, gols de placa e assistências de outro planeta."
+ },
+ {
+  "slug": "pedro",
+  "nome": "Pedro",
+  "time": "Flamengo",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1997-06-20",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ercx9t1750919772.png",
+  "bio": "Camisa 9 de área do Flamengo, artilheiro de Libertadores. Pivô forte e finalizador frio."
+ },
+ {
+  "slug": "gabigol",
+  "nome": "Gabigol",
+  "time": "Santos",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1996-08-30",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Santos FC",
+    "periodo": "2013–2016",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2015–2016",
+    "escudo": "brazil-u23.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2016–2020",
+    "escudo": "inter.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/yfna9l1767455650.png",
+  "bio": "Herói de duas finais de Libertadores pelo Flamengo, com gols nos minutos finais. Ídolo da torcida!"
+ },
+ {
+  "slug": "hulk",
+  "nome": "Hulk",
+  "time": "Atlético Mineiro",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1986-07-25",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2002",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Vitoria",
+    "periodo": "2003–2005",
+    "escudo": "vitoria.png"
+   },
+   {
+    "time": "FC Porto",
+    "periodo": "2008–2012",
+    "escudo": "fc-porto.png"
+   },
+   {
+    "time": "Zenit St Petersburg",
+    "periodo": "2012–2016",
+    "escudo": "zenit-st-petersburg.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/jtmx7z1763755268.png",
+  "bio": "Força de super-herói de verdade! Chute tão forte que os goleiros têm medo. Ídolo no Galo."
+ },
+ {
+  "slug": "memphis-depay",
+  "nome": "Memphis Depay",
+  "time": "Corinthians",
+  "nacionalidade": "The Netherlands",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1994-02-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sparta",
+    "periodo": "2003–2006",
+    "escudo": "sparta.png"
+   },
+   {
+    "time": "PSV Eindhoven",
+    "periodo": "2006–2015",
+    "escudo": "psv-eindhoven.png"
+   },
+   {
+    "time": "Manchester United",
+    "periodo": "2015–2017",
+    "escudo": "manchester-united.png"
+   },
+   {
+    "time": "Lyon",
+    "periodo": "2017–2021",
+    "escudo": "lyon.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/b91tiy1767278210.png",
+  "bio": "Holandês estiloso que trocou a Europa pelo Corinthians e virou xodó da Fiel."
+ },
+ {
+  "slug": "yuri-alberto",
+  "nome": "Yuri Alberto",
+  "time": "Corinthians",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "2001-03-18",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Santos FC",
+    "periodo": "2017–2020",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Internacional",
+    "periodo": "2020–2022",
+    "escudo": "internacional.png"
+   },
+   {
+    "time": "Corinthians",
+    "periodo": "2022–2023",
+    "escudo": "corinthians.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/0kvev61767278675.png",
+  "bio": "Atacante rápido do Corinthians, artilheiro do time por várias temporadas."
+ },
+ {
+  "slug": "estevao",
+  "nome": "Estêvão",
+  "time": "Chelsea",
+  "nacionalidade": "Brazil",
+  "posicao": "Right Winger",
+  "categoria": "selecao",
+  "nascimento": "2007-04-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Cruzeiro",
+    "periodo": "2017–2021",
+    "escudo": "cruzeiro.png"
+   },
+   {
+    "time": "Palmeiras",
+    "periodo": "2021–2024",
+    "escudo": "palmeiras.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/cdcih71757001906.png",
+  "bio": "A 'Messinho'! Revelado no Palmeiras, foi vendido ao Chelsea ainda adolescente. Drible desconcertante."
+ },
+ {
+  "slug": "cole-palmer",
+  "nome": "Cole Palmer",
+  "time": "Chelsea",
+  "nacionalidade": "England",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "2002-05-06",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Manchester City",
+    "periodo": "2020–2023",
+    "escudo": "manchester-city.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/fn0pzc1757010119.png",
+  "bio": "O 'Cold Palmer' comemora tremendo de frio! Craque inglês de pênaltis e assistências."
+ },
+ {
+  "slug": "wirtz",
+  "nome": "Wirtz",
+  "time": "Liverpool",
+  "nacionalidade": "Germany",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "2003-05-03",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "FC Koln",
+    "periodo": "2010–2020",
+    "escudo": "fc-koln.png"
+   },
+   {
+    "time": "Bayer Leverkusen",
+    "periodo": "2020–2025",
+    "escudo": "bayer-leverkusen.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8t6bzo1757088899.png",
+  "bio": "Meia alemão genial que encanta pela visão de jogo. Um dos jovens mais valiosos do mundo."
+ },
+ {
+  "slug": "dembele",
+  "nome": "Dembélé",
+  "time": "Paris SG",
+  "nacionalidade": "France",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "1997-05-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Rennes",
+    "periodo": "2015–2016",
+    "escudo": "rennes.png"
+   },
+   {
+    "time": "Dortmund",
+    "periodo": "2016–2017",
+    "escudo": "dortmund.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2017–2023",
+    "escudo": "barcelona.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
+  "bio": "Francês veloz que chuta bem com as DUAS pernas — ninguém sabe qual é a boa! Ganhou Bola de Ouro."
+ },
+ {
+  "slug": "hakimi",
+  "nome": "Hakimi",
+  "time": "Paris SG",
+  "nacionalidade": "Morocco",
+  "posicao": "Right-Back",
+  "categoria": "europa",
+  "nascimento": "1998-11-04",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Real Madrid",
+    "periodo": "2006–2020",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Real Madrid B",
+    "periodo": "2016–2017",
+    "escudo": "real-madrid-b.png"
+   },
+   {
+    "time": "Dortmund",
+    "periodo": "2018–2020",
+    "escudo": "dortmund.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2020–2021",
+    "escudo": "inter.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/oqu69c1766335243.png",
+  "bio": "Lateral marroquino que corre como um velocista. Herói do Marrocos na Copa de 2022."
+ },
+ {
+  "slug": "de-bruyne",
+  "nome": "De Bruyne",
+  "time": "Napoli",
+  "nacionalidade": "Belgium",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "1991-06-28",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Gent",
+    "periodo": "1999–2005",
+    "escudo": "gent.png"
+   },
+   {
+    "time": "Genk",
+    "periodo": "2005–2012",
+    "escudo": "genk.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2012–2014",
+    "escudo": "chelsea.png"
+   },
+   {
+    "time": "Wolfsburg",
+    "periodo": "2014–2015",
+    "escudo": "wolfsburg.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/o4flia1764089447.png",
+  "bio": "O 'Rei das Assistências': enxerga passes que ninguém vê. Um dos meias mais geniais da história recente."
+ },
+ {
+  "slug": "foden",
+  "nome": "Foden",
+  "time": "Manchester City",
+  "nacionalidade": "England",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "2000-05-28",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/lbn4sx1769182620.png",
+  "bio": "Menino de Manchester que cresceu no City e virou craque. Baixinho, canhoto e genial."
+ },
+ {
+  "slug": "rodri",
+  "nome": "Rodri",
+  "time": "Wrexham",
+  "nacionalidade": "England",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1989-07-29",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Burnley",
+    "periodo": "2007–2012",
+    "escudo": "burnley.png"
+   },
+   {
+    "time": "Southampton",
+    "periodo": "2012–2017",
+    "escudo": "southampton.png"
+   },
+   {
+    "time": "West Brom",
+    "periodo": "2017–2019",
+    "escudo": "west-brom.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/0ml2zi1761148957.png",
+  "bio": "Volante espanhol que ganhou a Bola de Ouro de 2024. O cérebro do meio-campo."
+ },
+ {
+  "slug": "saka",
+  "nome": "Saka",
+  "time": "Arsenal",
+  "nacionalidade": "England",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "2001-09-05",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Arsenal U21",
+    "periodo": "2018–2020",
+    "escudo": "arsenal-u21.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/xfwok41769331816.png",
+  "bio": "O 'Estrelinha' do Arsenal: ponta driblador e queridinho da torcida inglesa."
+ },
+ {
+  "slug": "degaard",
+  "nome": "Ødegaard",
+  "time": "Arsenal",
+  "nacionalidade": "Norway",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "1998-12-17",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Stroemsgodset",
+    "periodo": "2009–2015",
+    "escudo": "stroemsgodset.png"
+   },
+   {
+    "time": "Real Madrid B",
+    "periodo": "2015–2017",
+    "escudo": "real-madrid-b.png"
+   },
+   {
+    "time": "SC Heerenveen",
+    "periodo": "2017–2018",
+    "escudo": "sc-heerenveen.png"
+   },
+   {
+    "time": "Vitesse",
+    "periodo": "2018–2019",
+    "escudo": "vitesse.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/5g6vww1769331695.png",
+  "bio": "Norueguês que estreou profissionalmente com 15 anos! Capitão e maestro do Arsenal."
+ },
+ {
+  "slug": "declan-rice",
+  "nome": "Declan Rice",
+  "time": "Arsenal",
+  "nacionalidade": "England",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "1999-01-14",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Chelsea",
+    "periodo": "2006–2014",
+    "escudo": "chelsea.png"
+   },
+   {
+    "time": "West Ham",
+    "periodo": "2014–2023",
+    "escudo": "west-ham.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/do2pew1694204464.png",
+  "bio": "Volante inglês de raça: desarma, corre e ainda faz gols de falta importantes."
+ },
+ {
+  "slug": "gyokeres",
+  "nome": "Gyökeres",
+  "time": "Arsenal",
+  "nacionalidade": "Sweden",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1998-06-04",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Brommapojkarna",
+    "periodo": "2013–2015",
+    "escudo": "brommapojkarna.png"
+   },
+   {
+    "time": "Brighton",
+    "periodo": "2018–2021",
+    "escudo": "brighton.png"
+   },
+   {
+    "time": "St Pauli",
+    "periodo": "2019–2020",
+    "escudo": "st-pauli.png"
+   },
+   {
+    "time": "Swansea",
+    "periodo": "2020–2021",
+    "escudo": "swansea.png"
+   },
+   {
+    "time": "Coventry",
+    "periodo": "2021",
+    "escudo": "coventry.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png",
+  "bio": "Atacante sueco com força de touro. Comemora colocando uma máscara imaginária!"
+ },
+ {
+  "slug": "pedri",
+  "nome": "Pedri",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Portugal",
+  "posicao": "Defender",
+  "categoria": "europa",
+  "nascimento": "1985-03-06",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Varzim",
+    "periodo": "1996–2007",
+    "escudo": "varzim.png"
+   },
+   {
+    "time": "Associação Académica de Coimbra",
+    "periodo": "2007–2011",
+    "escudo": "associacao-academica-de-coimbra.png"
+   },
+   {
+    "time": "Lorient",
+    "periodo": "2011–2015",
+    "escudo": "lorient.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/srwppu1424795582.png",
+  "bio": "Meia canário das Ilhas Canárias com toque de veludo. Comparado a Iniesta desde os 18 anos."
+ },
+ {
+  "slug": "gavi",
+  "nome": "Gavi",
+  "time": "Gloucester City",
+  "nacionalidade": "Ireland",
+  "posicao": "Defender",
+  "categoria": "europa",
+  "nascimento": "1991-01-26",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/29005498.png",
+  "bio": "Guerreiro do Barcelona: com 17 anos já batia de igual pra igual com os grandes."
+ },
+ {
+  "slug": "de-jong",
+  "nome": "De Jong",
+  "time": "Barcelona",
+  "nacionalidade": "The Netherlands",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "1997-05-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Willem II",
+    "periodo": "2004–2015",
+    "escudo": "willem-ii.png"
+   },
+   {
+    "time": "Ajax",
+    "periodo": "2016–2019",
+    "escudo": "ajax.png"
+   },
+   {
+    "time": "Netherlands U21",
+    "periodo": "2017",
+    "escudo": "netherlands-u21.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/b8k6611726510284.png",
+  "bio": "Holandês elegante que sai jogando driblando todo mundo desde a defesa."
+ },
+ {
+  "slug": "musiala",
+  "nome": "Musiala",
+  "time": "Bayern Munich",
+  "nacionalidade": "Germany",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "2003-02-26",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/vbkv611756416067.png",
+  "bio": "O 'Bambi' alemão: dribla em espaços apertados como se a bola fosse colada no pé."
+ },
+ {
+  "slug": "olise",
+  "nome": "Olise",
+  "time": "Bayern Munich",
+  "nacionalidade": "France",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "2001-12-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Arsenal",
+    "periodo": "2009",
+    "escudo": "arsenal.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2009–2016",
+    "escudo": "chelsea.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2016–2017",
+    "escudo": "manchester-city.png"
+   },
+   {
+    "time": "Reading",
+    "periodo": "2019–2021",
+    "escudo": "reading.png"
+   },
+   {
+    "time": "Crystal Palace",
+    "periodo": "2021–2024",
+    "escudo": "crystal-palace.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/r4vx6b1756408807.png",
+  "bio": "Ponta francês canhoto de drible fino, um dos jogadores mais criativos da Alemanha."
+ },
+ {
+  "slug": "luis-diaz",
+  "nome": "Luis Díaz",
+  "time": "Bayern Munich",
+  "nacionalidade": "Colombia",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1997-01-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Barranquilla FC",
+    "periodo": "2016–2017",
+    "escudo": "barranquilla-fc.png"
+   },
+   {
+    "time": "Atlético Junior",
+    "periodo": "2017–2019",
+    "escudo": "atletico-junior.png"
+   },
+   {
+    "time": "FC Porto",
+    "periodo": "2019–2022",
+    "escudo": "fc-porto.png"
+   },
+   {
+    "time": "Liverpool",
+    "periodo": "2022–2025",
+    "escudo": "liverpool.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/emmcyf1756408968.png",
+  "bio": "O 'Lucho' colombiano: driblador alegre que saiu de Barrancas pro topo da Europa."
+ },
+ {
+  "slug": "valverde",
+  "nome": "Valverde",
+  "time": "Real Madrid",
+  "nacionalidade": "Uruguay",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "1998-07-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Peñarol",
+    "periodo": "2008–2016",
+    "escudo": "penarol.png"
+   },
+   {
+    "time": "Real Madrid B",
+    "periodo": "2016–2017",
+    "escudo": "real-madrid-b.png"
+   },
+   {
+    "time": "La Coruna",
+    "periodo": "2017–2018",
+    "escudo": "la-coruna.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/5249151768499204.png",
+  "bio": "O 'Pajarito' uruguaio tem um chute de meia distância que parece míssil!"
+ },
+ {
+  "slug": "arda-guler",
+  "nome": "Arda Güler",
+  "time": "Real Madrid",
+  "nacionalidade": "Turkey",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "2005-02-25",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Fenerbahce",
+    "periodo": "2021–2023",
+    "escudo": "fenerbahce.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/lwnog21768499165.png",
+  "bio": "Joia turca canhota, comparada a Messi. Chute colocado de fora da área é a marca dele."
+ },
+ {
+  "slug": "courtois",
+  "nome": "Courtois",
+  "time": "Real Madrid",
+  "nacionalidade": "Belgium",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1992-05-11",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Genk",
+    "periodo": "2009–2011",
+    "escudo": "genk.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2011–2018",
+    "escudo": "chelsea.png"
+   },
+   {
+    "time": "Atletico Madrid",
+    "periodo": "2011–2014",
+    "escudo": "atletico-madrid.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/592mar1733653475.png",
+  "bio": "Goleiro belga gigante (2 metros!) que fez uma das maiores atuações da história numa final de Champions."
+ },
+ {
+  "slug": "lautaro-martinez",
+  "nome": "Lautaro Martínez",
+  "time": "Inter Milan",
+  "nacionalidade": "Argentina",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1997-08-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Racing Club",
+    "periodo": "2015–2018",
+    "escudo": "racing-club.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png",
+  "bio": "O 'Touro' argentino: atacante raçudo, capitão da Inter e campeão do mundo em 2022."
+ },
+ {
+  "slug": "rafael-leao",
+  "nome": "Rafael Leão",
+  "time": "AC Milan",
+  "nacionalidade": "Portugal",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1999-06-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sporting CP",
+    "periodo": "2017–2018",
+    "escudo": "sporting-cp.png"
+   },
+   {
+    "time": "Lille",
+    "periodo": "2018–2019",
+    "escudo": "lille.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/tlgrvf1758892567.png",
+  "bio": "Português veloz e sorridente, cria do Milan. Quando pega velocidade, ninguém segura."
+ },
+ {
+  "slug": "julian-alvarez",
+  "nome": "Julián Álvarez",
+  "time": "Atlético Madrid",
+  "nacionalidade": "Argentina",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "2000-01-31",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "River Plate",
+    "periodo": "2016–2022",
+    "escudo": "river-plate.png"
+   },
+   {
+    "time": "Argentina U23",
+    "periodo": "2019–2024",
+    "escudo": "argentina-u23.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2022–2024",
+    "escudo": "manchester-city.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png",
+  "bio": "A 'Aranha' argentina! Campeão do mundo em 2022, famoso por correr o campo inteiro."
+ },
+ {
+  "slug": "vitinha",
+  "nome": "Vitinha",
+  "time": "Paris SG",
+  "nacionalidade": "Portugal",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "2000-02-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "FC Porto",
+    "periodo": "2011–2022",
+    "escudo": "fc-porto.png"
+   },
+   {
+    "time": "FC Porto B",
+    "periodo": "2019–2020",
+    "escudo": "fc-porto-b.png"
+   },
+   {
+    "time": "Wolves",
+    "periodo": "2020–2021",
+    "escudo": "wolves.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/q6mw6n1766335544.png",
+  "bio": "Baixinho português que domina o meio-campo com passes rápidos. Motor do PSG campeão da Champions."
+ },
+ {
+  "slug": "joao-neves",
+  "nome": "João Neves",
+  "time": "Paris SG",
+  "nacionalidade": "Portugal",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "2004-09-27",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Benfica Youth",
+    "periodo": "2016–2022",
+    "escudo": "benfica-youth.png"
+   },
+   {
+    "time": "Benfica B",
+    "periodo": "2022–2023",
+    "escudo": "benfica-b.png"
+   },
+   {
+    "time": "Benfica",
+    "periodo": "2022–2024",
+    "escudo": "benfica.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/2q9ahn1766335473.png",
+  "bio": "Português juvenil de energia infinita: parece que joga com duas baterias!"
+ },
+ {
+  "slug": "doue",
+  "nome": "Doué",
+  "time": "Paris SG",
+  "nacionalidade": "France",
+  "posicao": "Left Midfield",
+  "categoria": "europa",
+  "nascimento": "2005-06-03",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Rennes",
+    "periodo": "2011–2024",
+    "escudo": "rennes.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/5m0p4g1766335194.png",
+  "bio": "Jovem francês que explodiu na final da Champions de 2025 com atuação de gala."
+ },
+ {
+  "slug": "kvaratskhelia",
+  "nome": "Kvaratskhelia",
+  "time": "Paris SG",
+  "nacionalidade": "Georgia",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "2001-02-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Dinamo Tbilisi",
+    "periodo": "2017–2018",
+    "escudo": "dinamo-tbilisi.png"
+   },
+   {
+    "time": "Metalurgi Rustavi",
+    "periodo": "2018–2019",
+    "escudo": "metalurgi-rustavi.png"
+   },
+   {
+    "time": "Lok. Moscow",
+    "periodo": "2019",
+    "escudo": "lok-moscow.png"
+   },
+   {
+    "time": "FK Rubin Kazan",
+    "periodo": "2019–2022",
+    "escudo": "fk-rubin-kazan.png"
+   },
+   {
+    "time": "Dinamo Batumi",
+    "periodo": "2022",
+    "escudo": "dinamo-batumi.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/n4iv5t1766335312.png",
+  "bio": "O 'Kvaradona' da Geórgia: dribles que lembram Maradona e chutes venenosos."
+ },
+ {
+  "slug": "ederson",
+  "nome": "Ederson",
+  "time": "Fenerbahçe",
+  "nacionalidade": "Brazil",
+  "posicao": "Goalkeeper",
+  "categoria": "selecao",
+  "nascimento": "1993-08-17",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2008–2009",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Benfica",
+    "periodo": "2009–2011",
+    "escudo": "benfica.png"
+   },
+   {
+    "time": "Rio Ave ",
+    "periodo": "2012–2015",
+    "escudo": "rio-ave.png"
+   },
+   {
+    "time": "Benfica ",
+    "periodo": "2015–2017",
+    "escudo": "benfica.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2017–2025",
+    "escudo": "manchester-city.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/xhlait1769179027.png"
+ },
+ {
+  "slug": "gabriel-magalhaes",
+  "nome": "Gabriel Magalhães",
+  "time": "Arsenal",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "selecao",
+  "nascimento": "1997-12-19",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Avai FC",
+    "periodo": "2016–2017",
+    "escudo": "avai-fc.png"
+   },
+   {
+    "time": "Lille",
+    "periodo": "2017–2020",
+    "escudo": "lille.png"
+   },
+   {
+    "time": "Troyes",
+    "periodo": "2017–2018",
+    "escudo": "troyes.png"
+   },
+   {
+    "time": "Dinamo Zagreb",
+    "periodo": "2018",
+    "escudo": "dinamo-zagreb.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2020–2021",
+    "escudo": "brazil-u23.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/trz5x71769331076.png"
+ },
+ {
+  "slug": "paqueta",
+  "nome": "Paquetá",
+  "time": "Flamengo",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "selecao",
+  "nascimento": "1997-08-27",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Flamengo",
+    "periodo": "2007–2019",
+    "escudo": "flamengo.png"
+   },
+   {
+    "time": "Milan",
+    "periodo": "2019–2020",
+    "escudo": "milan.png"
+   },
+   {
+    "time": "Lyon",
+    "periodo": "2020–2022",
+    "escudo": "lyon.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/wz75kq1770378434.png"
+ },
+ {
+  "slug": "savinho",
+  "nome": "Savinho",
+  "time": "Manchester City",
+  "nacionalidade": "Brazil",
+  "posicao": "Left Wing",
+  "categoria": "selecao",
+  "nascimento": "2004-04-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Atletico MG",
+    "periodo": "2020–2022",
+    "escudo": "atletico-mg.png"
+   },
+   {
+    "time": "Troyes",
+    "periodo": "2022–2024",
+    "escudo": "troyes.png"
+   },
+   {
+    "time": "PSV Eindhoven",
+    "periodo": "2022–2023",
+    "escudo": "psv-eindhoven.png"
+   },
+   {
+    "time": "Girona",
+    "periodo": "2023–2024",
+    "escudo": "girona.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png"
+ },
+ {
+  "slug": "matheus-cunha",
+  "nome": "Matheus Cunha",
+  "time": "Manchester United",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "selecao",
+  "nascimento": "1999-05-27",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "FC Sion",
+    "periodo": "2017–2018",
+    "escudo": "fc-sion.png"
+   },
+   {
+    "time": "RasenBallsport Leipzig",
+    "periodo": "2018–2020",
+    "escudo": "rasenballsport-leipzig.png"
+   },
+   {
+    "time": "Hertha",
+    "periodo": "2020–2021",
+    "escudo": "hertha.png"
+   },
+   {
+    "time": "Ath Madrid",
+    "periodo": "2021–2023",
+    "escudo": "ath-madrid.png"
+   },
+   {
+    "time": "Wolves",
+    "periodo": "2022–2023",
+    "escudo": "wolves.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png"
+ },
+ {
+  "slug": "joao-pedro",
+  "nome": "João Pedro",
+  "time": "Chelsea",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "selecao",
+  "nascimento": "2001-09-26",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Fluminense",
+    "periodo": "2019–2020",
+    "escudo": "fluminense.png"
+   },
+   {
+    "time": "Watford",
+    "periodo": "2020–2023",
+    "escudo": "watford.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/kdguq61757010204.png"
+ },
+ {
+  "slug": "raphael-veiga",
+  "nome": "Raphael Veiga",
+  "time": "Palmeiras",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1995-06-19",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Coritiba",
+    "periodo": "2013–2016",
+    "escudo": "coritiba.png"
+   },
+   {
+    "time": "Atletico PR",
+    "periodo": "2018",
+    "escudo": "atletico-pr.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/2etn7j1750412119.png"
+ },
+ {
+  "slug": "weverton",
+  "nome": "Weverton",
+  "time": "Grêmio",
+  "nacionalidade": "Brazil",
+  "posicao": "Goalkeeper",
+  "categoria": "brasileirao",
+  "nascimento": "1987-12-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Corinthians",
+    "periodo": "2006–2009",
+    "escudo": "corinthians.png"
+   },
+   {
+    "time": "Remo",
+    "periodo": "2006–2007",
+    "escudo": "remo.png"
+   },
+   {
+    "time": "Oeste FC",
+    "periodo": "2009",
+    "escudo": "oeste-fc.png"
+   },
+   {
+    "time": "America RN",
+    "periodo": "2009",
+    "escudo": "america-rn.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/qoq0721750412232.png"
+ },
+ {
+  "slug": "vitor-roque",
+  "nome": "Vitor Roque",
+  "time": "Palmeiras",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "2005-02-28",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Cruzeiro",
+    "periodo": "2021–2022",
+    "escudo": "cruzeiro.png"
+   },
+   {
+    "time": "Atletico PR",
+    "periodo": "2022–2023",
+    "escudo": "atletico-pr.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2024–2025",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Real Betis",
+    "periodo": "2024–2025",
+    "escudo": "real-betis.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/scy93v1750411536.png"
+ },
+ {
+  "slug": "piquerez",
+  "nome": "Piquerez",
+  "time": "Palmeiras",
+  "nacionalidade": "Uruguay",
+  "posicao": "Left-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1998-08-24",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ly80qj1750412020.png"
+ },
+ {
+  "slug": "rivaldo",
+  "nome": "Rivaldo",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "lenda",
+  "nascimento": "1972-04-19",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Palmeiras",
+    "periodo": "1994–1996",
+    "escudo": "palmeiras.png"
+   },
+   {
+    "time": "La Coruna",
+    "periodo": "1996–1997",
+    "escudo": "la-coruna.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "1997–2002",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Olympiakos",
+    "periodo": "2004–2007",
+    "escudo": "olympiakos.png"
+   },
+   {
+    "time": "AEK",
+    "periodo": "2007–2008",
+    "escudo": "aek.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/qk013q1661513337.png"
+ },
+ {
+  "slug": "cafu",
+  "nome": "Cafu",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Right-Back",
+  "categoria": "lenda",
+  "nascimento": "1970-06-07",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "1989–1995",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Zaragoza",
+    "periodo": "1995",
+    "escudo": "zaragoza.png"
+   },
+   {
+    "time": "Juventude",
+    "periodo": "1995",
+    "escudo": "juventude.png"
+   },
+   {
+    "time": "Roma",
+    "periodo": "1997–2003",
+    "escudo": "roma.png"
+   },
+   {
+    "time": "Milan",
+    "periodo": "2003–2008",
+    "escudo": "milan.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/9t0i4f1665653369.png"
+ },
+ {
+  "slug": "zico",
+  "nome": "Zico",
+  "time": "New Mexico United",
+  "nacionalidade": "Philippines",
+  "posicao": "Defensive Midfield",
+  "categoria": "lenda",
+  "nascimento": "2000-08-27",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/9md6we1682522019.png"
+ },
+ {
+  "slug": "adriano-imperador",
+  "nome": "Adriano Imperador",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Defender",
+  "categoria": "lenda",
+  "nascimento": "1984-10-26",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Coritiba",
+    "periodo": "1997–2004",
+    "escudo": "coritiba.png"
+   },
+   {
+    "time": "Sevilla",
+    "periodo": "2005–2010",
+    "escudo": "sevilla.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2010–2016",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Besiktas",
+    "periodo": "2016–2019",
+    "escudo": "besiktas.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/2zgi9c1518383810.png"
+ },
+ {
+  "slug": "rogerio-ceni",
+  "nome": "Rogério Ceni",
+  "time": "Bahia",
+  "nacionalidade": "Brazil",
+  "posicao": "Manager",
+  "categoria": "lenda",
+  "nascimento": "1973-01-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "1990–2017",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Brazil",
+    "periodo": "1997–2006",
+    "escudo": "brazil.png"
+   },
+   {
+    "time": "Fortaleza",
+    "periodo": "2017–2019",
+    "escudo": "fortaleza.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/11k7zu1592946977.png"
+ },
+ {
+  "slug": "gerson",
+  "nome": "Gerson",
+  "time": "Cruzeiro",
+  "nacionalidade": "Brazil",
+  "posicao": "Central Midfield",
+  "categoria": "selecao",
+  "nascimento": "1997-05-20",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Fluminense",
+    "periodo": "2012–2016",
+    "escudo": "fluminense.png"
+   },
+   {
+    "time": "Roma",
+    "periodo": "2016–2019",
+    "escudo": "roma.png"
+   },
+   {
+    "time": "Fiorentina",
+    "periodo": "2018–2019",
+    "escudo": "fiorentina.png"
+   },
+   {
+    "time": "Flamengo",
+    "periodo": "2019–2021",
+    "escudo": "flamengo.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/6bq1pi1770029676.png"
+ },
+ {
+  "slug": "lucas-moura",
+  "nome": "Lucas Moura",
+  "time": "São Paulo",
+  "nacionalidade": "Brazil",
+  "posicao": "Right Winger",
+  "categoria": "brasileirao",
+  "nascimento": "1992-08-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2010–2012",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Paris SG",
+    "periodo": "2013–2018",
+    "escudo": "paris-sg.png"
+   },
+   {
+    "time": "Tottenham",
+    "periodo": "2018–2023",
+    "escudo": "tottenham.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/nyzci01767961490.png"
+ },
+ {
+  "slug": "luciano",
+  "nome": "Luciano",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Argentina",
+  "posicao": "Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1983-12-28",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/7453282.png"
+ },
+ {
+  "slug": "calleri",
+  "nome": "Calleri",
+  "time": "São Paulo",
+  "nacionalidade": "Argentina",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1993-09-23",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "All Boys",
+    "periodo": "2013–2014",
+    "escudo": "all-boys.png"
+   },
+   {
+    "time": "Boca Juniors",
+    "periodo": "2014–2015",
+    "escudo": "boca-juniors.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/o2p8st1767959549.png"
+ },
+ {
+  "slug": "oscar",
+  "nome": "Oscar",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1991-09-09",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2004–2010",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Internacional",
+    "periodo": "2010–2012",
+    "escudo": "internacional.png"
+   },
+   {
+    "time": "Brazil",
+    "periodo": "2011–2015",
+    "escudo": "brazil.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2012–2016",
+    "escudo": "chelsea.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/wetmw11707938584.png"
+ },
+ {
+  "slug": "everton-ribeiro",
+  "nome": "Everton Ribeiro",
+  "time": "Bahia",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1989-04-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Corinthians",
+    "periodo": "2001–2011",
+    "escudo": "corinthians.png"
+   },
+   {
+    "time": "São Caetano",
+    "periodo": "2008–2011",
+    "escudo": "sao-caetano.png"
+   },
+   {
+    "time": "Coritiba",
+    "periodo": "2011–2013",
+    "escudo": "coritiba.png"
+   },
+   {
+    "time": "Cruzeiro",
+    "periodo": "2013–2015",
+    "escudo": "cruzeiro.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8p52tw1763831878.png"
+ },
+ {
+  "slug": "cebolinha",
+  "nome": "Cebolinha",
+  "time": "Flamengo",
+  "nacionalidade": "Brazil",
+  "posicao": "Left Wing",
+  "categoria": "brasileirao",
+  "nascimento": "1996-03-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Fortaleza",
+    "periodo": "2009–2012",
+    "escudo": "fortaleza.png"
+   },
+   {
+    "time": "Gremio",
+    "periodo": "2012–2020",
+    "escudo": "gremio.png"
+   },
+   {
+    "time": "Benfica",
+    "periodo": "2020–2022",
+    "escudo": "benfica.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/dpvnc81750920167.png"
+ },
+ {
+  "slug": "bruno-henrique",
+  "nome": "Bruno Henrique",
+  "time": "Flamengo",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacker",
+  "categoria": "brasileirao",
+  "nascimento": "1990-12-30",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/a0znu71750455127.png"
+ },
+ {
+  "slug": "danilo",
+  "nome": "Danilo",
+  "time": "Flamengo",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1991-07-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "America MG",
+    "periodo": "2009–2010",
+    "escudo": "america-mg.png"
+   },
+   {
+    "time": "Santos",
+    "periodo": "2010–2011",
+    "escudo": "santos.png"
+   },
+   {
+    "time": "FC Porto",
+    "periodo": "2012–2015",
+    "escudo": "fc-porto.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2015–2017",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2017–2019",
+    "escudo": "manchester-city.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/6hr4w81750454528.png"
+ },
+ {
+  "slug": "kaio-jorge",
+  "nome": "Kaio Jorge",
+  "time": "Cruzeiro",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "2002-01-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Santos FC",
+    "periodo": "2012–2018",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Santos",
+    "periodo": "2019–2021",
+    "escudo": "santos.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/m08mm51767455273.png"
+ },
+ {
+  "slug": "matheus-pereira",
+  "nome": "Matheus Pereira",
+  "time": "Cruzeiro",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1996-05-05",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sporting CP",
+    "periodo": "2010–2020",
+    "escudo": "sporting-cp.png"
+   },
+   {
+    "time": "Chaves",
+    "periodo": "2017–2018",
+    "escudo": "chaves.png"
+   },
+   {
+    "time": "Nurnberg",
+    "periodo": "2018–2019",
+    "escudo": "nurnberg.png"
+   },
+   {
+    "time": "West Brom",
+    "periodo": "2019–2020",
+    "escudo": "west-brom.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/5vcf831767454692.png"
+ },
+ {
+  "slug": "paulinho",
+  "nome": "Paulinho",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Midfielder",
+  "categoria": "brasileirao",
+  "nascimento": "1988-07-25",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "LKS Lodz",
+    "periodo": "2007–2008",
+    "escudo": "lks-lodz.png"
+   },
+   {
+    "time": "Bragantino",
+    "periodo": "2009–2010",
+    "escudo": "bragantino.png"
+   },
+   {
+    "time": "Corinthians",
+    "periodo": "2010–2013",
+    "escudo": "corinthians.png"
+   },
+   {
+    "time": "Tottenham",
+    "periodo": "2013–2015",
+    "escudo": "tottenham.png"
+   },
+   {
+    "time": "Guangzhou Evergrande",
+    "periodo": "2015–2017",
+    "escudo": "guangzhou-evergrande.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/lpga0c1684943642.png"
+ },
+ {
+  "slug": "isak",
+  "nome": "Isak",
+  "time": "Liverpool",
+  "nacionalidade": "Sweden",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1999-09-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "AIK",
+    "periodo": "2005–2017",
+    "escudo": "aik.png"
+   },
+   {
+    "time": "Dortmund",
+    "periodo": "2017–2019",
+    "escudo": "dortmund.png"
+   },
+   {
+    "time": "Willem II",
+    "periodo": "2019",
+    "escudo": "willem-ii.png"
+   },
+   {
+    "time": "Sociedad",
+    "periodo": "2019–2022",
+    "escudo": "sociedad.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/3qj7z41757088281.png"
+ },
+ {
+  "slug": "mac-allister",
+  "nome": "Mac Allister",
+  "time": "Liverpool",
+  "nacionalidade": "Argentina",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "1998-12-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Argentinos Juniors",
+    "periodo": "2016–2019",
+    "escudo": "argentinos-juniors.png"
+   },
+   {
+    "time": "Brighton",
+    "periodo": "2019–2023",
+    "escudo": "brighton.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png"
+ },
+ {
+  "slug": "szoboszlai",
+  "nome": "Szoboszlai",
+  "time": "Liverpool",
+  "nacionalidade": "Hungary",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "2000-10-25",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Videoton FC Fehervar",
+    "periodo": "2006–2007",
+    "escudo": "videoton-fc-fehervar.png"
+   },
+   {
+    "time": "Újpest FC",
+    "periodo": "2011",
+    "escudo": "ujpest-fc.png"
+   },
+   {
+    "time": "MTK Hungaria",
+    "periodo": "2015–2016",
+    "escudo": "mtk-hungaria.png"
+   },
+   {
+    "time": "FC Liefering",
+    "periodo": "2016–2018",
+    "escudo": "fc-liefering.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/0n431m1757088795.png"
+ },
+ {
+  "slug": "gakpo",
+  "nome": "Gakpo",
+  "time": "Liverpool",
+  "nacionalidade": "The Netherlands",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1999-05-07",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "PSV Eindhoven",
+    "periodo": "2007–2022",
+    "escudo": "psv-eindhoven.png"
+   },
+   {
+    "time": "Jong PSV",
+    "periodo": "2016–2019",
+    "escudo": "jong-psv.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png"
+ },
+ {
+  "slug": "bruno-fernandes",
+  "nome": "Bruno Fernandes",
+  "time": "Manchester United",
+  "nacionalidade": "Portugal",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "1994-09-08",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Boavista",
+    "periodo": "2004–2012",
+    "escudo": "boavista.png"
+   },
+   {
+    "time": "Novara",
+    "periodo": "2012–2013",
+    "escudo": "novara.png"
+   },
+   {
+    "time": "Udinese",
+    "periodo": "2013–2017",
+    "escudo": "udinese.png"
+   },
+   {
+    "time": "Sporting CP",
+    "periodo": "2017–2020",
+    "escudo": "sporting-cp.png"
+   },
+   {
+    "time": "Sampdoria",
+    "periodo": "2017",
+    "escudo": "sampdoria.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/jhasls1766826690.png"
+ },
+ {
+  "slug": "bernardo-silva",
+  "nome": "Bernardo Silva",
+  "time": "Real Madrid",
+  "nacionalidade": "Portugal",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "1994-08-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Benfica",
+    "periodo": "2002–2013",
+    "escudo": "benfica.png"
+   },
+   {
+    "time": "Benfica ",
+    "periodo": "2013–2015",
+    "escudo": "benfica.png"
+   },
+   {
+    "time": "Monaco",
+    "periodo": "2014–2017",
+    "escudo": "monaco.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/13ajsp1769182879.png"
+ },
+ {
+  "slug": "enzo-fernandez",
+  "nome": "Enzo Fernández",
+  "time": "Chelsea",
+  "nacionalidade": "Argentina",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "2001-01-17",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "River Plate",
+    "periodo": "2006–2022",
+    "escudo": "river-plate.png"
+   },
+   {
+    "time": "Defensa y Justicia",
+    "periodo": "2020",
+    "escudo": "defensa-y-justicia.png"
+   },
+   {
+    "time": "Benfica",
+    "periodo": "2022–2023",
+    "escudo": "benfica.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png"
+ },
+ {
+  "slug": "caicedo",
+  "nome": "Caicedo",
+  "time": "Chelsea",
+  "nacionalidade": "Ecuador",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "2001-11-02",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Independiente del Valle",
+    "periodo": "2014–2021",
+    "escudo": "independiente-del-valle.png"
+   },
+   {
+    "time": "Brighton",
+    "periodo": "2021–2023",
+    "escudo": "brighton.png"
+   },
+   {
+    "time": "Beerschot VA",
+    "periodo": "2021–2022",
+    "escudo": "beerschot-va.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/u3feyy1757002398.png"
+ },
+ {
+  "slug": "kimmich",
+  "nome": "Kimmich",
+  "time": "Bayern Munich",
+  "nacionalidade": "Germany",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "1995-02-08",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Stuttgart",
+    "periodo": "2007–2013",
+    "escudo": "stuttgart.png"
+   },
+   {
+    "time": "RasenBallsport Leipzig",
+    "periodo": "2013–2015",
+    "escudo": "rasenballsport-leipzig.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/oqb7rg1756408859.png"
+ },
+ {
+  "slug": "neuer",
+  "nome": "Neuer",
+  "time": "Bayern Munich",
+  "nacionalidade": "Germany",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1986-03-27",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Schalke 04",
+    "periodo": "1991–2011",
+    "escudo": "schalke-04.png"
+   },
+   {
+    "time": "Schalke 04 II",
+    "periodo": "2004–2006",
+    "escudo": "schalke-04-ii.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/udq0so1756416089.png"
+ },
+ {
+  "slug": "griezmann",
+  "nome": "Griezmann",
+  "time": "Atlético Madrid",
+  "nacionalidade": "France",
+  "posicao": "Second Striker",
+  "categoria": "europa",
+  "nascimento": "1991-03-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sociedad",
+    "periodo": "2005–2014",
+    "escudo": "sociedad.png"
+   },
+   {
+    "time": "France U21",
+    "periodo": "2010–2012",
+    "escudo": "france-u21.png"
+   },
+   {
+    "time": "Ath Madrid",
+    "periodo": "2014–2019",
+    "escudo": "ath-madrid.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2019–2022",
+    "escudo": "barcelona.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/tiqhh41762288400.png"
+ },
+ {
+  "slug": "coutinho",
+  "nome": "Coutinho",
+  "time": "Vasco da Gama",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1992-06-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Vasco da Gama",
+    "periodo": "1999–2010",
+    "escudo": "vasco-da-gama.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2008–2013",
+    "escudo": "inter.png"
+   },
+   {
+    "time": "Liverpool",
+    "periodo": "2013–2018",
+    "escudo": "liverpool.png"
+   },
+   {
+    "time": "Bayern Munich",
+    "periodo": "2019–2020",
+    "escudo": "bayern-munich.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/l4fdpt1767963078.png"
+ },
+ {
+  "slug": "modric",
+  "nome": "Modrić",
+  "time": "AC Milan",
+  "nacionalidade": "Croatia",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "1985-09-09",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Dinamo Zagreb",
+    "periodo": "2000–2008",
+    "escudo": "dinamo-zagreb.png"
+   },
+   {
+    "time": "Zrinjski",
+    "periodo": "2003–2004",
+    "escudo": "zrinjski.png"
+   },
+   {
+    "time": "NK Inter Zaprešić",
+    "periodo": "2004–2005",
+    "escudo": "nk-inter-zapresic.png"
+   },
+   {
+    "time": "Tottenham",
+    "periodo": "2008–2012",
+    "escudo": "tottenham.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/msewdx1758892756.png"
+ },
+ {
+  "slug": "pulisic",
+  "nome": "Pulisic",
+  "time": "AC Milan",
+  "nacionalidade": "United States",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "1998-09-18",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Dortmund",
+    "periodo": "2016–2019",
+    "escudo": "dortmund.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2019–2023",
+    "escudo": "chelsea.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png"
+ },
+ {
+  "slug": "maignan",
+  "nome": "Maignan",
+  "time": "AC Milan",
+  "nacionalidade": "France",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1995-07-03",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Paris SG",
+    "periodo": "2009–2015",
+    "escudo": "paris-sg.png"
+   },
+   {
+    "time": "Lille",
+    "periodo": "2015–2021",
+    "escudo": "lille.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/sw5ukh1758892671.png"
+ },
+ {
+  "slug": "thuram",
+  "nome": "Thuram",
+  "time": "Inter Milan",
+  "nacionalidade": "France",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1997-08-06",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sochaux",
+    "periodo": "2014–2017",
+    "escudo": "sochaux.png"
+   },
+   {
+    "time": "Guingamp",
+    "periodo": "2017–2019",
+    "escudo": "guingamp.png"
+   },
+   {
+    "time": "Mönchengladbach",
+    "periodo": "2019–2023",
+    "escudo": "monchengladbach.png"
+   },
+   {
+    "time": "France U21",
+    "periodo": "2019",
+    "escudo": "france-u21.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/aykui01759408989.png"
+ },
+ {
+  "slug": "barella",
+  "nome": "Barella",
+  "time": "Inter Milan",
+  "nacionalidade": "Italy",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "1997-02-07",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Cagliari",
+    "periodo": "2006–2020",
+    "escudo": "cagliari.png"
+   },
+   {
+    "time": "Como",
+    "periodo": "2016",
+    "escudo": "como.png"
+   },
+   {
+    "time": "Italy",
+    "periodo": "2017–2024",
+    "escudo": "italy.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2019–2020",
+    "escudo": "inter.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/k03sge1759408783.png"
+ },
+ {
+  "slug": "y-ld-z",
+  "nome": "Yıldız",
+  "time": "Juventus",
+  "nacionalidade": "Turkey",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "2005-05-04",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Jahn Regensburg",
+    "periodo": "2011–2012",
+    "escudo": "jahn-regensburg.png"
+   },
+   {
+    "time": "Bayern Munich",
+    "periodo": "2012–2022",
+    "escudo": "bayern-munich.png"
+   },
+   {
+    "time": "Juventus",
+    "periodo": "2022–2023",
+    "escudo": "juventus.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/zgep4d1759225554.png"
+ },
+ {
+  "slug": "vlahovic",
+  "nome": "Vlahović",
+  "time": "Juventus",
+  "nacionalidade": "Serbia",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "2000-01-28",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Partizan Belgrade",
+    "periodo": "2016–2018",
+    "escudo": "partizan-belgrade.png"
+   },
+   {
+    "time": "Fiorentina",
+    "periodo": "2018–2022",
+    "escudo": "fiorentina.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/rl2w191759225532.png"
+ },
+ {
+  "slug": "mctominay",
+  "nome": "McTominay",
+  "time": "Napoli",
+  "nacionalidade": "Scotland",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "1996-12-08",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Manchester United",
+    "periodo": "2017–2024",
+    "escudo": "manchester-united.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/b7truo1762288079.png"
+ },
+ {
+  "slug": "lukaku",
+  "nome": "Lukaku",
+  "time": "Napoli",
+  "nacionalidade": "Belgium",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1993-05-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Lierse",
+    "periodo": "2004–2006",
+    "escudo": "lierse.png"
+   },
+   {
+    "time": "Anderlecht",
+    "periodo": "2006–2011",
+    "escudo": "anderlecht.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2011–2014",
+    "escudo": "chelsea.png"
+   },
+   {
+    "time": "Manchester United",
+    "periodo": "2017–2019",
+    "escudo": "manchester-united.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png"
+ },
+ {
+  "slug": "osimhen",
+  "nome": "Osimhen",
+  "time": "Galatasaray",
+  "nacionalidade": "Nigeria",
+  "posicao": "Forward",
+  "categoria": "europa",
+  "nascimento": "1998-12-29",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Nigeria U17",
+    "periodo": "2015",
+    "escudo": "nigeria-u17.png"
+   },
+   {
+    "time": "Wolfsburg",
+    "periodo": "2017–2019",
+    "escudo": "wolfsburg.png"
+   },
+   {
+    "time": "Charleroi",
+    "periodo": "2018–2019",
+    "escudo": "charleroi.png"
+   },
+   {
+    "time": "Lille",
+    "periodo": "2019–2020",
+    "escudo": "lille.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png"
+ },
+ {
+  "slug": "icardi",
+  "nome": "Icardi",
+  "time": "Galatasaray",
+  "nacionalidade": "Argentina",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1993-02-19",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Barcelona",
+    "periodo": "2008–2011",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Sampdoria",
+    "periodo": "2011–2013",
+    "escudo": "sampdoria.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2013–2020",
+    "escudo": "inter.png"
+   },
+   {
+    "time": "Paris SG",
+    "periodo": "2019–2020",
+    "escudo": "paris-sg.png"
+   },
+   {
+    "time": "Galatasaray",
+    "periodo": "2022–2023",
+    "escudo": "galatasaray.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/w5ilco1717534510.png"
+ },
+ {
+  "slug": "son",
+  "nome": "Son",
+  "time": "Los Angeles FC",
+  "nacionalidade": "South Korea",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1992-07-08",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "FC Seoul",
+    "periodo": "2006",
+    "escudo": "fc-seoul.png"
+   },
+   {
+    "time": "Hamburg",
+    "periodo": "2008–2013",
+    "escudo": "hamburg.png"
+   },
+   {
+    "time": "Hamburg II",
+    "periodo": "2010",
+    "escudo": "hamburg-ii.png"
+   },
+   {
+    "time": "Leverkusen",
+    "periodo": "2013–2015",
+    "escudo": "leverkusen.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/a5cqf81766425262.png"
+ },
+ {
+  "slug": "benzema",
+  "nome": "Benzema",
+  "time": "Al-Hilal",
+  "nacionalidade": "France",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1987-12-19",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Lyon",
+    "periodo": "1997–2009",
+    "escudo": "lyon.png"
+   },
+   {
+    "time": "France",
+    "periodo": "2007–2022",
+    "escudo": "france.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2009–2023",
+    "escudo": "real-madrid.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/7jdxvc1771665502.png"
+ },
+ {
+  "slug": "mane",
+  "nome": "Mané",
+  "time": "Al-Nassr",
+  "nacionalidade": "Senegal",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1992-04-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Metz",
+    "periodo": "2011–2012",
+    "escudo": "metz.png"
+   },
+   {
+    "time": "SV Salzburg",
+    "periodo": "2012–2014",
+    "escudo": "sv-salzburg.png"
+   },
+   {
+    "time": "Southampton",
+    "periodo": "2014–2016",
+    "escudo": "southampton.png"
+   },
+   {
+    "time": "Liverpool",
+    "periodo": "2016–2022",
+    "escudo": "liverpool.png"
+   },
+   {
+    "time": "Génération Foot",
+    "periodo": "",
+    "escudo": "generation-foot.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/cify0u1678370417.png"
+ },
+ {
+  "slug": "di-maria",
+  "nome": "Di María",
+  "time": "Rosario Central",
+  "nacionalidade": "Argentina",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "1988-02-14",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Rosario Central",
+    "periodo": "1992–2007",
+    "escudo": "rosario-central.png"
+   },
+   {
+    "time": "Benfica ",
+    "periodo": "2007–2010",
+    "escudo": "benfica.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2010–2014",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Manchester United",
+    "periodo": "2014–2015",
+    "escudo": "manchester-united.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/4vji4l1765295910.png"
+ },
+ {
+  "slug": "dybala",
+  "nome": "Dybala",
+  "time": "Roma",
+  "nacionalidade": "Argentina",
+  "posicao": "Second Striker",
+  "categoria": "europa",
+  "nascimento": "1993-11-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Instituto ACC",
+    "periodo": "2003–2012",
+    "escudo": "instituto-acc.png"
+   },
+   {
+    "time": "Palermo",
+    "periodo": "2012–2015",
+    "escudo": "palermo.png"
+   },
+   {
+    "time": "Juventus",
+    "periodo": "2015–2022",
+    "escudo": "juventus.png"
+   },
+   {
+    "time": "Argentina",
+    "periodo": "2015–2024",
+    "escudo": "argentina.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/pjupvq1758815223.png"
+ },
+ {
+  "slug": "grealish",
+  "nome": "Grealish",
+  "time": "Manchester City",
+  "nacionalidade": "England",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1995-09-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Aston Villa",
+    "periodo": "2001–2021",
+    "escudo": "aston-villa.png"
+   },
+   {
+    "time": "Notts County",
+    "periodo": "2013–2014",
+    "escudo": "notts-county.png"
+   },
+   {
+    "time": "Everton",
+    "periodo": "2025–2026",
+    "escudo": "everton.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png"
+ },
+ {
+  "slug": "watkins",
+  "nome": "Watkins",
+  "time": "Aston Villa",
+  "nacionalidade": "England",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1995-12-30",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Exeter",
+    "periodo": "2014–2017",
+    "escudo": "exeter.png"
+   },
+   {
+    "time": "Brentford",
+    "periodo": "2017–2020",
+    "escudo": "brentford.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png"
+ },
+ {
+  "slug": "emiliano-martinez",
+  "nome": "Emiliano Martínez",
+  "time": "Aston Villa",
+  "nacionalidade": "Argentina",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1992-09-02",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Independiente",
+    "periodo": "2008–2010",
+    "escudo": "independiente.png"
+   },
+   {
+    "time": "Arsenal",
+    "periodo": "2010–2020",
+    "escudo": "arsenal.png"
+   },
+   {
+    "time": "Getafe",
+    "periodo": "2017–2018",
+    "escudo": "getafe.png"
+   },
+   {
+    "time": "Reading",
+    "periodo": "2019",
+    "escudo": "reading.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png"
+ },
+ {
+  "slug": "kudus",
+  "nome": "Kudus",
+  "time": "Al-Taawoun",
+  "nacionalidade": "Ghana",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "2000-08-02",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "FC Nordsjælland",
+    "periodo": "2018–2020",
+    "escudo": "fc-nordsj-lland.png"
+   },
+   {
+    "time": "Ajax",
+    "periodo": "2020–2023",
+    "escudo": "ajax.png"
+   },
+   {
+    "time": "West Ham United",
+    "periodo": "2023–2025",
+    "escudo": "west-ham-united.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/5wk6s81757016366.png"
+ },
+ {
+  "slug": "maddison",
+  "nome": "Maddison",
+  "time": "Tottenham Hotspur",
+  "nacionalidade": "England",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "1996-11-23",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Coventry",
+    "periodo": "2014–2016",
+    "escudo": "coventry.png"
+   },
+   {
+    "time": "Norwich",
+    "periodo": "2016–2018",
+    "escudo": "norwich.png"
+   },
+   {
+    "time": "Aberdeen",
+    "periodo": "2016–2017",
+    "escudo": "aberdeen.png"
+   },
+   {
+    "time": "Leicester",
+    "periodo": "2018–2023",
+    "escudo": "leicester.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/r9uosw1757016180.png"
+ },
+ {
+  "slug": "anthony-gordon",
+  "nome": "Anthony Gordon",
+  "time": "Newcastle United",
+  "nacionalidade": "England",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "2001-02-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Everton",
+    "periodo": "2012–2023",
+    "escudo": "everton.png"
+   },
+   {
+    "time": "Preston",
+    "periodo": "2021",
+    "escudo": "preston.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8ztck61766824986.png"
+ },
+ {
+  "slug": "tonali",
+  "nome": "Tonali",
+  "time": "Tottenham Hotspur",
+  "nacionalidade": "Italy",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "2000-05-18",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Piacenza",
+    "periodo": "2009–2012",
+    "escudo": "piacenza.png"
+   },
+   {
+    "time": "Brescia",
+    "periodo": "2012–2021",
+    "escudo": "brescia.png"
+   },
+   {
+    "time": "Milan",
+    "periodo": "2020–2023",
+    "escudo": "milan.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/b9oang1766824727.png"
+ },
+ {
+  "slug": "eze",
+  "nome": "Eze",
+  "time": "Arsenal",
+  "nacionalidade": "England",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "1998-06-29",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Millwall",
+    "periodo": "2014–2016",
+    "escudo": "millwall.png"
+   },
+   {
+    "time": "QPR",
+    "periodo": "2016–2020",
+    "escudo": "qpr.png"
+   },
+   {
+    "time": "Wycombe",
+    "periodo": "2017–2018",
+    "escudo": "wycombe.png"
+   },
+   {
+    "time": "Crystal Palace",
+    "periodo": "2020–2025",
+    "escudo": "crystal-palace.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/jcabmd1769330240.png"
+ },
+ {
+  "slug": "saliba",
+  "nome": "Saliba",
+  "time": "Arsenal",
+  "nacionalidade": "France",
+  "posicao": "Centre-Back",
+  "categoria": "europa",
+  "nascimento": "2001-03-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "St Etienne",
+    "periodo": "2016–2020",
+    "escudo": "st-etienne.png"
+   },
+   {
+    "time": "Nice",
+    "periodo": "2021",
+    "escudo": "nice.png"
+   },
+   {
+    "time": "Marseille",
+    "periodo": "2021–2022",
+    "escudo": "marseille.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/czasy21769331889.png"
+ },
+ {
+  "slug": "david-raya",
+  "nome": "David Raya",
+  "time": "Arsenal",
+  "nacionalidade": "Spain",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1995-09-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Blackburn",
+    "periodo": "2012–2019",
+    "escudo": "blackburn.png"
+   },
+   {
+    "time": "Southport",
+    "periodo": "2014–2015",
+    "escudo": "southport.png"
+   },
+   {
+    "time": "Brentford",
+    "periodo": "2019–2024",
+    "escudo": "brentford.png"
+   },
+   {
+    "time": "Arsenal",
+    "periodo": "2023–2024",
+    "escudo": "arsenal.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/21rp2q1769331784.png"
+ },
+ {
+  "slug": "havertz",
+  "nome": "Havertz",
+  "time": "Arsenal",
+  "nacionalidade": "Germany",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1999-06-11",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Aachen",
+    "periodo": "2009–2010",
+    "escudo": "aachen.png"
+   },
+   {
+    "time": "Leverkusen",
+    "periodo": "2010–2020",
+    "escudo": "leverkusen.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2020–2023",
+    "escudo": "chelsea.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/hem4r91694204364.png"
+ },
+ {
+  "slug": "cucurella",
+  "nome": "Cucurella",
+  "time": "Real Madrid",
+  "nacionalidade": "Spain",
+  "posicao": "Left-Back",
+  "categoria": "europa",
+  "nascimento": "1998-07-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Espanol",
+    "periodo": "2006–2012",
+    "escudo": "espanol.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2012–2017",
+    "escudo": "barcelona.png"
+   },
+   {
+    "time": "Getafe",
+    "periodo": "2019–2021",
+    "escudo": "getafe.png"
+   },
+   {
+    "time": "Spain U21",
+    "periodo": "2019–2021",
+    "escudo": "spain-u21.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/j7i66q1757002736.png"
+ },
+ {
+  "slug": "cubarsi",
+  "nome": "Cubarsí",
+  "time": "Barcelona",
+  "nacionalidade": "Spain",
+  "posicao": "Centre-Back",
+  "categoria": "europa",
+  "nascimento": "2007-01-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Barcelona Youth",
+    "periodo": "2018–2024",
+    "escudo": "barcelona-youth.png"
+   },
+   {
+    "time": "Barcelona Atlètic",
+    "periodo": "2023–2024",
+    "escudo": "barcelona-atletic.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/tynei31768321729.png"
+ },
+ {
+  "slug": "balde",
+  "nome": "Balde",
+  "time": "Barcelona",
+  "nacionalidade": "Spain",
+  "posicao": "Left-Back",
+  "categoria": "europa",
+  "nascimento": "2003-03-18",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Barcelona Youth",
+    "periodo": "2011–2021",
+    "escudo": "barcelona-youth.png"
+   },
+   {
+    "time": "Barcelona Atlètic",
+    "periodo": "2021",
+    "escudo": "barcelona-atletic.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png"
+ },
+ {
+  "slug": "ferran-torres",
+  "nome": "Ferran Torres",
+  "time": "Barcelona",
+  "nacionalidade": "Spain",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "2000-02-29",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Valencia",
+    "periodo": "2006–2020",
+    "escudo": "valencia.png"
+   },
+   {
+    "time": "Valencia Mestalla",
+    "periodo": "2016–2017",
+    "escudo": "valencia-mestalla.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2020–2022",
+    "escudo": "manchester-city.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/feey201726510461.png"
+ },
+ {
+  "slug": "dani-olmo",
+  "nome": "Dani Olmo",
+  "time": "Barcelona",
+  "nacionalidade": "Spain",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "1998-05-07",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Barcelona Youth",
+    "periodo": "2007–2014",
+    "escudo": "barcelona-youth.png"
+   },
+   {
+    "time": "Dinamo Zagreb II",
+    "periodo": "2014–2017",
+    "escudo": "dinamo-zagreb-ii.png"
+   },
+   {
+    "time": "Dinamo Zagreb",
+    "periodo": "2015–2020",
+    "escudo": "dinamo-zagreb.png"
+   },
+   {
+    "time": "Spain U21",
+    "periodo": "2018–2019",
+    "escudo": "spain-u21.png"
+   },
+   {
+    "time": "RB Leipzig",
+    "periodo": "2020–2024",
+    "escudo": "rb-leipzig.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/s9hzoh1725611346.png"
+ },
+ {
+  "slug": "ter-stegen",
+  "nome": "Ter Stegen",
+  "time": "Girona",
+  "nacionalidade": "Germany",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1992-04-30",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Mönchengladbach",
+    "periodo": "1996–2014",
+    "escudo": "monchengladbach.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/9w51mf1775286949.png"
+ },
+ {
+  "slug": "kounde",
+  "nome": "Koundé",
+  "time": "Barcelona",
+  "nacionalidade": "France",
+  "posicao": "Centre-Back",
+  "categoria": "europa",
+  "nascimento": "1998-11-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Bordeaux",
+    "periodo": "2016–2019",
+    "escudo": "bordeaux.png"
+   },
+   {
+    "time": "Sevilla",
+    "periodo": "2019–2022",
+    "escudo": "sevilla.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png"
+ },
+ {
+  "slug": "camavinga",
+  "nome": "Camavinga",
+  "time": "Real Madrid",
+  "nacionalidade": "France",
+  "posicao": "Central Midfield",
+  "categoria": "europa",
+  "nascimento": "2002-11-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Rennes",
+    "periodo": "2013–2021",
+    "escudo": "rennes.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/viijpx1733653403.png"
+ },
+ {
+  "slug": "tchouameni",
+  "nome": "Tchouaméni",
+  "time": "Real Madrid",
+  "nacionalidade": "France",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "2000-01-27",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Bordeaux",
+    "periodo": "2017–2020",
+    "escudo": "bordeaux.png"
+   },
+   {
+    "time": "Monaco",
+    "periodo": "2020–2022",
+    "escudo": "monaco.png"
+   },
+   {
+    "time": "France U21",
+    "periodo": "2021",
+    "escudo": "france-u21.png"
+   },
+   {
+    "time": "France",
+    "periodo": "2021",
+    "escudo": "france.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png"
+ },
+ {
+  "slug": "alexander-arnold",
+  "nome": "Alexander-Arnold",
+  "time": "Real Madrid",
+  "nacionalidade": "England",
+  "posicao": "Right-Back",
+  "categoria": "europa",
+  "nascimento": "1998-10-07",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Liverpool",
+    "periodo": "2004–2025",
+    "escudo": "liverpool.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/rw1mkk1750271928.png"
+ },
+ {
+  "slug": "marcelo",
+  "nome": "Marcelo",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Left-Back",
+  "categoria": "lenda",
+  "nascimento": "1988-05-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Fluminense",
+    "periodo": "2002–2006",
+    "escudo": "fluminense.png"
+   },
+   {
+    "time": "Brazil",
+    "periodo": "2006–2018",
+    "escudo": "brazil.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2007–2022",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2008–2012",
+    "escudo": "brazil-u23.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/4mlqdq1699193933.png"
+ },
+ {
+  "slug": "dida",
+  "nome": "Dida",
+  "time": "_Free Agent Soccer",
+  "nacionalidade": "Germany",
+  "posicao": "Midfielder",
+  "categoria": "lenda",
+  "nascimento": "1990-02-21",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/scgt2h1610656370.png"
+ },
+ {
+  "slug": "ganso",
+  "nome": "Ganso",
+  "time": "Fluminense",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1989-10-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Santos FC",
+    "periodo": "2008–2012",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Sao Paulo",
+    "periodo": "2012–2016",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Brazil U23",
+    "periodo": "2012",
+    "escudo": "brazil-u23.png"
+   },
+   {
+    "time": "Sevilla",
+    "periodo": "2016–2019",
+    "escudo": "sevilla.png"
+   },
+   {
+    "time": "Amiens",
+    "periodo": "2018–2019",
+    "escudo": "amiens.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/6zj5tk1699193261.png"
+ },
+ {
+  "slug": "cano",
+  "nome": "Cano",
+  "time": "Fluminense",
+  "nacionalidade": "Argentina",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1988-01-02",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Lanus",
+    "periodo": "2007–2012",
+    "escudo": "lanus.png"
+   },
+   {
+    "time": "Chacarita Juniors",
+    "periodo": "2009–2010",
+    "escudo": "chacarita-juniors.png"
+   },
+   {
+    "time": "Colon",
+    "periodo": "2011",
+    "escudo": "colon.png"
+   },
+   {
+    "time": "Deportivo Pereira",
+    "periodo": "2011",
+    "escudo": "deportivo-pereira.png"
+   },
+   {
+    "time": "Club Nacional",
+    "periodo": "2012",
+    "escudo": "club-nacional.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ohtv591699196612.png"
+ },
+ {
+  "slug": "thiago-silva",
+  "nome": "Thiago Silva",
+  "time": "FC Porto",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1984-09-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Fluminense",
+    "periodo": "1998–2001",
+    "escudo": "fluminense.png"
+   },
+   {
+    "time": "Juventude",
+    "periodo": "2004–2005",
+    "escudo": "juventude.png"
+   },
+   {
+    "time": "Milan",
+    "periodo": "2009–2012",
+    "escudo": "milan.png"
+   },
+   {
+    "time": "Paris SG",
+    "periodo": "2012–2020",
+    "escudo": "paris-sg.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/81cvg01750614116.png"
+ },
+ {
+  "slug": "garro",
+  "nome": "Garro",
+  "time": "Corinthians",
+  "nacionalidade": "Argentina",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1998-01-04",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/sm1vhw1767277702.png"
+ },
+ {
+  "slug": "everson",
+  "nome": "Everson",
+  "time": "_Free Agent American Football",
+  "nacionalidade": "United States",
+  "posicao": "Defensive End ",
+  "categoria": "brasileirao",
+  "nascimento": "1987-12-22",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Minnesota Vikings",
+    "periodo": "2010–2019",
+    "escudo": "minnesota-vikings.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/kwidsa1732915282.png"
+ },
+ {
+  "slug": "vegetti",
+  "nome": "Vegetti",
+  "time": "Vasco da Gama",
+  "nacionalidade": "Argentina",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1988-10-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Rangers de Talca",
+    "periodo": "2013–2015",
+    "escudo": "rangers-de-talca.png"
+   },
+   {
+    "time": "Gimnasia y Esgrima de La Plata",
+    "periodo": "2015–2017",
+    "escudo": "gimnasia-y-esgrima-de-la-plata.png"
+   },
+   {
+    "time": "Boca Unidos",
+    "periodo": "2017–2018",
+    "escudo": "boca-unidos.png"
+   },
+   {
+    "time": "Instituto",
+    "periodo": "2018–2019",
+    "escudo": "instituto.png"
+   },
+   {
+    "time": "Belgrano",
+    "periodo": "2019–2023",
+    "escudo": "belgrano.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/kvfud21717259712.png"
+ },
+ {
+  "slug": "deyverson",
+  "nome": "Deyverson",
+  "time": "LDU Quito",
+  "nacionalidade": "Brazil",
+  "posicao": "Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1991-05-08",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Benfica B",
+    "periodo": "2012–2013",
+    "escudo": "benfica-b.png"
+   },
+   {
+    "time": "Belenenses",
+    "periodo": "2013–2015",
+    "escudo": "belenenses.png"
+   },
+   {
+    "time": "FC Koln",
+    "periodo": "2015",
+    "escudo": "fc-koln.png"
+   },
+   {
+    "time": "Levante",
+    "periodo": "2015–2017",
+    "escudo": "levante.png"
+   },
+   {
+    "time": "Alaves",
+    "periodo": "2016–2017",
+    "escudo": "alaves.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/vlo40k1626291436.png"
+ },
+ {
+  "slug": "alan-patrick",
+  "nome": "Alan Patrick",
+  "time": "Internacional",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1991-02-13",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Santos FC",
+    "periodo": "2003–2011",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Internacional",
+    "periodo": "2013–2014",
+    "escudo": "internacional.png"
+   },
+   {
+    "time": "Palmeiras",
+    "periodo": "2015",
+    "escudo": "palmeiras.png"
+   },
+   {
+    "time": "Flamengo",
+    "periodo": "2015–2016",
+    "escudo": "flamengo.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/m3dyrk1767558419.png"
+ },
+ {
+  "slug": "denilson",
+  "nome": "Denílson",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Winger",
+  "categoria": "lenda",
+  "nascimento": "1977-08-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "1994–1998",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Betis",
+    "periodo": "1998–2005",
+    "escudo": "betis.png"
+   },
+   {
+    "time": "Flamengo",
+    "periodo": "2000",
+    "escudo": "flamengo.png"
+   },
+   {
+    "time": "Bordeaux",
+    "periodo": "2005–2006",
+    "escudo": "bordeaux.png"
+   },
+   {
+    "time": "Al Nassr FC",
+    "periodo": "2006–2007",
+    "escudo": "al-nassr-fc.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/axor0f1661507141.png"
+ },
+ {
+  "slug": "julio-cesar",
+  "nome": "Júlio César",
+  "time": "_Retired Soccer",
+  "nacionalidade": "Brazil",
+  "posicao": "Goalkeeper",
+  "categoria": "lenda",
+  "nascimento": "1979-09-03",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Flamengo",
+    "periodo": "1991–2005",
+    "escudo": "flamengo.png"
+   },
+   {
+    "time": "Chievo",
+    "periodo": "2005",
+    "escudo": "chievo.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2005–2012",
+    "escudo": "inter.png"
+   },
+   {
+    "time": "QPR",
+    "periodo": "2012–2014",
+    "escudo": "qpr.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/twtrrq1424733649.png"
+ },
+ {
+  "slug": "beraldo",
+  "nome": "Beraldo",
+  "time": "Paris SG",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "selecao",
+  "nascimento": "2003-11-24",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sao Paulo",
+    "periodo": "2022–2024",
+    "escudo": "sao-paulo.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/v6nvhs1766334559.png"
+ },
+ {
+  "slug": "wendell",
+  "nome": "Wendell",
+  "time": "São Paulo",
+  "nacionalidade": "Brazil",
+  "posicao": "Left-Back",
+  "categoria": "selecao",
+  "nascimento": "1993-07-20",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Londrina EC",
+    "periodo": "2012–2013",
+    "escudo": ""
+   },
+   {
+    "time": "Gremio",
+    "periodo": "2014",
+    "escudo": "gremio.png"
+   },
+   {
+    "time": "Leverkusen",
+    "periodo": "2014–2021",
+    "escudo": "leverkusen.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/fqg18o1767961409.png"
+ },
+ {
+  "slug": "vanderson",
+  "nome": "Vanderson",
+  "time": "Monaco",
+  "nacionalidade": "Brazil",
+  "posicao": "Right-Back",
+  "categoria": "selecao",
+  "nascimento": "2001-06-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Gremio",
+    "periodo": "2021–2022",
+    "escudo": "gremio.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/51sbyv1766238350.png"
+ },
+ {
+  "slug": "andrey-santos",
+  "nome": "Andrey Santos",
+  "time": "Chelsea",
+  "nacionalidade": "Brazil",
+  "posicao": "Defensive Midfield",
+  "categoria": "selecao",
+  "nascimento": "2004-05-03",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Vasco da Gama",
+    "periodo": "2022–2023",
+    "escudo": "vasco-da-gama.png"
+   },
+   {
+    "time": "Nottingham Forest",
+    "periodo": "2023–2024",
+    "escudo": "nottingham-forest.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/jt1o7i1757010267.png"
+ },
+ {
+  "slug": "andre",
+  "nome": "André",
+  "time": "Wolverhampton Wanderers",
+  "nacionalidade": "Brazil",
+  "posicao": "Defensive Midfield",
+  "categoria": "selecao",
+  "nascimento": "2001-07-16",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/p5mdl81725566116.png"
+ },
+ {
+  "slug": "joao-gomes",
+  "nome": "João Gomes",
+  "time": "Wolverhampton Wanderers",
+  "nacionalidade": "Brazil",
+  "posicao": "Defensive Midfield",
+  "categoria": "selecao",
+  "nascimento": "2001-02-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Flamengo",
+    "periodo": "2021–2023",
+    "escudo": "flamengo.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/u8mcha1756975493.png"
+ },
+ {
+  "slug": "murillo",
+  "nome": "Murillo",
+  "time": "Al-Shamal",
+  "nacionalidade": "Colombia",
+  "posicao": "Defender",
+  "categoria": "selecao",
+  "nascimento": "1992-05-27",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Udinese",
+    "periodo": "2010–2011",
+    "escudo": "udinese.png"
+   },
+   {
+    "time": "Granada",
+    "periodo": "2011–2015",
+    "escudo": "granada.png"
+   },
+   {
+    "time": "Cadiz",
+    "periodo": "2011–2012",
+    "escudo": "cadiz.png"
+   },
+   {
+    "time": "Las Palmas",
+    "periodo": "2012–2013",
+    "escudo": "las-palmas.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2015–2018",
+    "escudo": "inter.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/uv52oz1679571746.png"
+ },
+ {
+  "slug": "igor-jesus",
+  "nome": "Igor Jesus",
+  "time": "Los Angeles FC",
+  "nacionalidade": "Brazil",
+  "posicao": "Defensive Midfield",
+  "categoria": "selecao",
+  "nascimento": "2003-03-07",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/p5c7cf1750910956.png"
+ },
+ {
+  "slug": "bento",
+  "nome": "Bento",
+  "time": "Sporting CP",
+  "nacionalidade": "United States",
+  "posicao": "Central Midfield",
+  "categoria": "selecao",
+  "nascimento": "2006-02-10",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/21wjvm1683660594.png"
+ },
+ {
+  "slug": "fabricio-bruno",
+  "nome": "Fabrício Bruno",
+  "time": "Cruzeiro",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1996-02-12",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/cdnj3m1767454196.png"
+ },
+ {
+  "slug": "cristaldo",
+  "nome": "Cristaldo",
+  "time": "Grêmio",
+  "nacionalidade": "Argentina",
+  "posicao": "Midfielder",
+  "categoria": "brasileirao",
+  "nascimento": "1996-08-15",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/62tef31767545241.png"
+ },
+ {
+  "slug": "braithwaite",
+  "nome": "Braithwaite",
+  "time": "Gremio",
+  "nacionalidade": "Denmark",
+  "posicao": "Centre-Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1991-06-05",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Esbjerg",
+    "periodo": "2009–2013",
+    "escudo": "esbjerg.png"
+   },
+   {
+    "time": "Toulouse",
+    "periodo": "2013–2017",
+    "escudo": "toulouse.png"
+   },
+   {
+    "time": "Middlesbrough",
+    "periodo": "2017–2019",
+    "escudo": "middlesbrough.png"
+   },
+   {
+    "time": "Leganes",
+    "periodo": "2019–2020",
+    "escudo": "leganes.png"
+   },
+   {
+    "time": "Barcelona",
+    "periodo": "2020–2022",
+    "escudo": "barcelona.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/rtp4oy1767546309.png"
+ },
+ {
+  "slug": "borre",
+  "nome": "Borré",
+  "time": "Internacional",
+  "nacionalidade": "Colombia",
+  "posicao": "Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1995-09-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Deportivo Cali",
+    "periodo": "2013–2016",
+    "escudo": "deportivo-cali.png"
+   },
+   {
+    "time": "Ath Madrid",
+    "periodo": "2015–2017",
+    "escudo": "ath-madrid.png"
+   },
+   {
+    "time": "Villarreal",
+    "periodo": "2016–2017",
+    "escudo": "villarreal.png"
+   },
+   {
+    "time": "River Plate",
+    "periodo": "2017–2021",
+    "escudo": "river-plate.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/tsfv7s1767558322.png"
+ },
+ {
+  "slug": "rochet",
+  "nome": "Rochet",
+  "time": "Internacional",
+  "nacionalidade": "Uruguay",
+  "posicao": "Goalkeeper",
+  "categoria": "brasileirao",
+  "nascimento": "1993-03-23",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Danubio",
+    "periodo": "2012–2014",
+    "escudo": "danubio.png"
+   },
+   {
+    "time": "AZ Alkmaar",
+    "periodo": "2014–2017",
+    "escudo": "az-alkmaar.png"
+   },
+   {
+    "time": "Sivasspor",
+    "periodo": "2017–2019",
+    "escudo": "sivasspor.png"
+   },
+   {
+    "time": "Nacional Montevideo",
+    "periodo": "2019–2023",
+    "escudo": "nacional-montevideo.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/02lxaa1767604928.png"
+ },
+ {
+  "slug": "leo-jardim",
+  "nome": "Léo Jardim",
+  "time": "Vasco da Gama",
+  "nacionalidade": "Brazil",
+  "posicao": "Goalkeeper",
+  "categoria": "brasileirao",
+  "nascimento": "1995-03-20",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Gremio",
+    "periodo": "2012–2019",
+    "escudo": "gremio.png"
+   },
+   {
+    "time": "Rio Ave",
+    "periodo": "2018–2019",
+    "escudo": "rio-ave.png"
+   },
+   {
+    "time": "Lille",
+    "periodo": "2019–2022",
+    "escudo": "lille.png"
+   },
+   {
+    "time": "Boavista",
+    "periodo": "2020–2021",
+    "escudo": "boavista.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/iy4q251767969271.png"
+ },
+ {
+  "slug": "savarino",
+  "nome": "Savarino",
+  "time": "Fluminense",
+  "nacionalidade": "Venezuela",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1996-11-11",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Zulia F.C.",
+    "periodo": "2013–2017",
+    "escudo": "zulia-f-c.png"
+   },
+   {
+    "time": "Real Salt Lake",
+    "periodo": "2017–2019",
+    "escudo": "real-salt-lake.png"
+   },
+   {
+    "time": "Atletico MG",
+    "periodo": "2020–2022",
+    "escudo": "atletico-mg.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/y8amyl1780324551.png"
+ },
+ {
+  "slug": "alex-telles",
+  "nome": "Alex Telles",
+  "time": "Botafogo",
+  "nacionalidade": "Brazil",
+  "posicao": "Left-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1992-12-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Juventude",
+    "periodo": "2007–2012",
+    "escudo": "juventude.png"
+   },
+   {
+    "time": "Gremio",
+    "periodo": "2013",
+    "escudo": "gremio.png"
+   },
+   {
+    "time": "Galatasaray",
+    "periodo": "2014–2016",
+    "escudo": "galatasaray.png"
+   },
+   {
+    "time": "Inter",
+    "periodo": "2015–2016",
+    "escudo": "inter.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ub4njs1749549235.png"
+ },
+ {
+  "slug": "ze-rafael",
+  "nome": "Zé Rafael",
+  "time": "São Paulo",
+  "nacionalidade": "Italy",
+  "posicao": "Centre-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1990-10-10",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Goias",
+    "periodo": "2009–2012",
+    "escudo": "goias.png"
+   },
+   {
+    "time": "Sao Paulo",
+    "periodo": "2012–2015",
+    "escudo": "sao-paulo.png"
+   },
+   {
+    "time": "Roma",
+    "periodo": "2014",
+    "escudo": "roma.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/10zyza1767886114.png"
+ },
+ {
+  "slug": "rony",
+  "nome": "Rony",
+  "time": "Alanyaspor",
+  "nacionalidade": "Portugal",
+  "posicao": "Midfielder",
+  "categoria": "brasileirao",
+  "nascimento": "1995-12-28",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Benfica",
+    "periodo": "2006–2011",
+    "escudo": "benfica.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2011–2015",
+    "escudo": "manchester-city.png"
+   },
+   {
+    "time": "Lille",
+    "periodo": "2014–2015",
+    "escudo": "lille.png"
+   },
+   {
+    "time": "Monaco",
+    "periodo": "2015–2019",
+    "escudo": "monaco.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/g83qt91674745645.png"
+ },
+ {
+  "slug": "gustavo-scarpa",
+  "nome": "Gustavo Scarpa",
+  "time": "Atlético Mineiro",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1994-01-05",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Fluminense",
+    "periodo": "2012–2017",
+    "escudo": "fluminense.png"
+   },
+   {
+    "time": "Palmeiras",
+    "periodo": "2018–2023",
+    "escudo": "palmeiras.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/agdoz11763755482.png"
+ },
+ {
+  "slug": "arana",
+  "nome": "Arana",
+  "time": "Fluminense",
+  "nacionalidade": "Brazil",
+  "posicao": "Left-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1997-04-14",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Corinthians",
+    "periodo": "2014–2017",
+    "escudo": "corinthians.png"
+   },
+   {
+    "time": "Atletico PR",
+    "periodo": "2015",
+    "escudo": "atletico-pr.png"
+   },
+   {
+    "time": "Sevilla",
+    "periodo": "2018–2021",
+    "escudo": "sevilla.png"
+   },
+   {
+    "time": "Atalanta",
+    "periodo": "2019–2020",
+    "escudo": "atalanta.png"
+   },
+   {
+    "time": "Atletico MG",
+    "periodo": "2020–2021",
+    "escudo": "atletico-mg.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/7pi6qx1780324575.png"
+ },
+ {
+  "slug": "andreas-pereira",
+  "nome": "Andreas Pereira",
+  "time": "Palmeiras",
+  "nacionalidade": "Brazil",
+  "posicao": "Attacking Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1996-01-01",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Manchester United",
+    "periodo": "2014–2022",
+    "escudo": "manchester-united.png"
+   },
+   {
+    "time": "Lazio",
+    "periodo": "2020–2021",
+    "escudo": "lazio.png"
+   },
+   {
+    "time": "Flamengo",
+    "periodo": "2021–2022",
+    "escudo": "flamengo.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/0moxnx1767691272.png"
+ },
+ {
+  "slug": "felipe-anderson",
+  "nome": "Felipe Anderson",
+  "time": "Palmeiras",
+  "nacionalidade": "Brazil",
+  "posicao": "Forward",
+  "categoria": "brasileirao",
+  "nascimento": "1993-04-15",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Coritiba",
+    "periodo": "2007",
+    "escudo": "coritiba.png"
+   },
+   {
+    "time": "Santos FC",
+    "periodo": "2010–2013",
+    "escudo": "santos-fc.png"
+   },
+   {
+    "time": "Lazio",
+    "periodo": "2013–2018",
+    "escudo": "lazio.png"
+   },
+   {
+    "time": "West Ham",
+    "periodo": "2018–2021",
+    "escudo": "west-ham.png"
+   },
+   {
+    "time": "FC Porto",
+    "periodo": "2020–2021",
+    "escudo": "fc-porto.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/la10vj1767690640.png"
+ },
+ {
+  "slug": "gustavo-gomez",
+  "nome": "Gustavo Gómez",
+  "time": "Palmeiras",
+  "nacionalidade": "Paraguay",
+  "posicao": "Centre-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1993-05-06",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Lanus",
+    "periodo": "2014–2016",
+    "escudo": "lanus.png"
+   },
+   {
+    "time": "Milan",
+    "periodo": "2016–2019",
+    "escudo": "milan.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ytrnlp1750412203.png"
+ },
+ {
+  "slug": "rossi",
+  "nome": "Rossi",
+  "time": "Flamengo",
+  "nacionalidade": "Argentina",
+  "posicao": "Goalkeeper",
+  "categoria": "brasileirao",
+  "nascimento": "1995-08-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Chacarita Juniors",
+    "periodo": "2014",
+    "escudo": "chacarita-juniors.png"
+   },
+   {
+    "time": "Estudiantes de la Plata",
+    "periodo": "2015–2016",
+    "escudo": "estudiantes-de-la-plata.png"
+   },
+   {
+    "time": "Defensa y Justicia",
+    "periodo": "2016",
+    "escudo": "defensa-y-justicia.png"
+   },
+   {
+    "time": "Boca Juniors",
+    "periodo": "2017",
+    "escudo": "boca-juniors.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/um7xb01750919100.png"
+ },
+ {
+  "slug": "de-la-cruz",
+  "nome": "De la Cruz",
+  "time": "Flamengo",
+  "nacionalidade": "Uruguay",
+  "posicao": "Central Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1997-06-01",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Liverpool Montevideo",
+    "periodo": "2009–2017",
+    "escudo": "liverpool-montevideo.png"
+   },
+   {
+    "time": "River Plate",
+    "periodo": "2017–2023",
+    "escudo": "river-plate.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/s4d9o91750920555.png"
+ },
+ {
+  "slug": "leo-pereira",
+  "nome": "Léo Pereira",
+  "time": "Flamengo",
+  "nacionalidade": "Brazil",
+  "posicao": "Centre-Back",
+  "categoria": "brasileirao",
+  "nascimento": "1996-01-31",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Atletico PR",
+    "periodo": "2014–2020",
+    "escudo": "atletico-pr.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/cuvmse1750919246.png"
+ },
+ {
+  "slug": "plata",
+  "nome": "Plata",
+  "time": "Flamengo",
+  "nacionalidade": "Ecuador",
+  "posicao": "Right Winger",
+  "categoria": "brasileirao",
+  "nascimento": "2000-11-01",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Independiente del Valle",
+    "periodo": "2017–2019",
+    "escudo": "independiente-del-valle.png"
+   },
+   {
+    "time": "Sporting B",
+    "periodo": "2019",
+    "escudo": "sporting-b.png"
+   },
+   {
+    "time": "Sporting CP",
+    "periodo": "2019–2022",
+    "escudo": "sporting-cp.png"
+   },
+   {
+    "time": "Valladolid",
+    "periodo": "2021–2022",
+    "escudo": "valladolid.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/sdclx01751003063.png"
+ },
+ {
+  "slug": "samuel-lino",
+  "nome": "Samuel Lino",
+  "time": "Flamengo",
+  "nacionalidade": "Brazil",
+  "posicao": "Left Midfield",
+  "categoria": "brasileirao",
+  "nascimento": "1999-12-23",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "São Bernardo",
+    "periodo": "2016–2019",
+    "escudo": "sao-bernardo.png"
+   },
+   {
+    "time": "Flamengo",
+    "periodo": "2017–2018",
+    "escudo": "flamengo.png"
+   },
+   {
+    "time": "Gil Vicente",
+    "periodo": "2020–2022",
+    "escudo": "gil-vicente.png"
+   },
+   {
+    "time": "Valencia",
+    "periodo": "2022–2023",
+    "escudo": "valencia.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8cl2ir1767467376.png"
+ },
+ {
+  "slug": "nico-williams",
+  "nome": "Nico Williams",
+  "time": "Athletic Bilbao",
+  "nacionalidade": "Spain",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "2002-07-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Athletic Bilbao B",
+    "periodo": "2014–2021",
+    "escudo": "athletic-bilbao-b.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png"
+ },
+ {
+  "slug": "unai-simon",
+  "nome": "Unai Simón",
+  "time": "Athletic Bilbao",
+  "nacionalidade": "Spain",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1997-06-11",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Ath Bilbao",
+    "periodo": "2011–2014",
+    "escudo": "ath-bilbao.png"
+   },
+   {
+    "time": "Basconia",
+    "periodo": "2014–2016",
+    "escudo": "basconia.png"
+   },
+   {
+    "time": "Athletic Bilbao B",
+    "periodo": "2016–2018",
+    "escudo": "athletic-bilbao-b.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/6b7izw1603316358.png"
+ },
+ {
+  "slug": "oyarzabal",
+  "nome": "Oyarzabal",
+  "time": "Real Sociedad",
+  "nacionalidade": "Spain",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1997-04-21",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Real Sociedad B",
+    "periodo": "2014–2015",
+    "escudo": "real-sociedad-b.png"
+   },
+   {
+    "time": "Spain",
+    "periodo": "2016",
+    "escudo": "spain.png"
+   },
+   {
+    "time": "Spain U21",
+    "periodo": "2017–2019",
+    "escudo": "spain-u21.png"
+   },
+   {
+    "time": "Spain U23",
+    "periodo": "2020",
+    "escudo": "spain-u23.png"
+   },
+   {
+    "time": "Eibar",
+    "periodo": "",
+    "escudo": "eibar.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/9apeaz1762709253.png"
+ },
+ {
+  "slug": "kubo",
+  "nome": "Kubo",
+  "time": "Real Sociedad",
+  "nacionalidade": "Japan",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "2001-06-04",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Tokyo Verdy",
+    "periodo": "2008–2010",
+    "escudo": "tokyo-verdy.png"
+   },
+   {
+    "time": "Kawasaki Frontale",
+    "periodo": "2010–2011",
+    "escudo": "kawasaki-frontale.png"
+   },
+   {
+    "time": "FC Tokyo",
+    "periodo": "2016–2019",
+    "escudo": "fc-tokyo.png"
+   },
+   {
+    "time": "Yokohama F Marinos",
+    "periodo": "2018",
+    "escudo": "yokohama-f-marinos.png"
+   },
+   {
+    "time": "Mallorca",
+    "periodo": "2019–2020",
+    "escudo": "mallorca.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/bb8sw01762709094.png"
+ },
+ {
+  "slug": "lookman",
+  "nome": "Lookman",
+  "time": "Atlético Madrid",
+  "nacionalidade": "Nigeria",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1997-10-20",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Charlton",
+    "periodo": "2013–2017",
+    "escudo": "charlton.png"
+   },
+   {
+    "time": "Everton",
+    "periodo": "2017–2019",
+    "escudo": "everton.png"
+   },
+   {
+    "time": "RasenBallsport Leipzig",
+    "periodo": "2018",
+    "escudo": "rasenballsport-leipzig.png"
+   },
+   {
+    "time": "Fulham",
+    "periodo": "2020–2021",
+    "escudo": "fulham.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/wg0pod1772033492.png"
+ },
+ {
+  "slug": "koopmeiners",
+  "nome": "Koopmeiners",
+  "time": "Juventus",
+  "nacionalidade": "The Netherlands",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "1998-02-28",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "AZ Alkmaar",
+    "periodo": "2009–2021",
+    "escudo": "az-alkmaar.png"
+   },
+   {
+    "time": "Atalanta",
+    "periodo": "2021–2024",
+    "escudo": "atalanta.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/pvqhh01759225850.png"
+ },
+ {
+  "slug": "de-ligt",
+  "nome": "De Ligt",
+  "time": "Manchester United",
+  "nacionalidade": "The Netherlands",
+  "posicao": "Centre-Back",
+  "categoria": "europa",
+  "nascimento": "1999-08-12",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Ajax",
+    "periodo": "2008–2019",
+    "escudo": "ajax.png"
+   },
+   {
+    "time": "Jong Ajax",
+    "periodo": "2016–2017",
+    "escudo": "jong-ajax.png"
+   },
+   {
+    "time": "Juventus",
+    "periodo": "2019–2022",
+    "escudo": "juventus.png"
+   },
+   {
+    "time": "Bayern Munich",
+    "periodo": "2022–2024",
+    "escudo": "bayern-munich.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/ag2gx31766826741.png"
+ },
+ {
+  "slug": "mainoo",
+  "nome": "Mainoo",
+  "time": "Manchester United",
+  "nacionalidade": "England",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "2005-04-19",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8qrveo1766826836.png"
+ },
+ {
+  "slug": "amad-diallo",
+  "nome": "Amad Diallo",
+  "time": "Manchester United",
+  "nacionalidade": "Ivory Coast",
+  "posicao": "Right Winger",
+  "categoria": "europa",
+  "nascimento": "2002-07-11",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Atalanta",
+    "periodo": "2015–2021",
+    "escudo": "atalanta.png"
+   },
+   {
+    "time": "Rangers",
+    "periodo": "2022",
+    "escudo": "rangers.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/8p6wbg1766826668.png"
+ },
+ {
+  "slug": "garnacho",
+  "nome": "Garnacho",
+  "time": "Chelsea",
+  "nacionalidade": "Argentina",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "2004-07-01",
+  "localNascimento": "",
+  "exTimes": [],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/69y34j1757003249.png"
+ },
+ {
+  "slug": "sterling",
+  "nome": "Sterling",
+  "time": "Feyenoord",
+  "nacionalidade": "England",
+  "posicao": "Left Wing",
+  "categoria": "europa",
+  "nascimento": "1994-12-08",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "QPR",
+    "periodo": "2003–2010",
+    "escudo": "qpr.png"
+   },
+   {
+    "time": "Liverpool",
+    "periodo": "2010–2012",
+    "escudo": "liverpool.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2015–2022",
+    "escudo": "manchester-city.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2022–2026",
+    "escudo": "chelsea.png"
+   },
+   {
+    "time": "Arsenal",
+    "periodo": "2024–2025",
+    "escudo": "arsenal.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/kza2je1766827614.png"
+ },
+ {
+  "slug": "nkunku",
+  "nome": "Nkunku",
+  "time": "AC Milan",
+  "nacionalidade": "France",
+  "posicao": "Attacking Midfield",
+  "categoria": "europa",
+  "nascimento": "1997-11-14",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Paris SG",
+    "periodo": "2015–2019",
+    "escudo": "paris-sg.png"
+   },
+   {
+    "time": "RasenBallsport Leipzig",
+    "periodo": "2019–2023",
+    "escudo": "rasenballsport-leipzig.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2023–2025",
+    "escudo": "chelsea.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png"
+ },
+ {
+  "slug": "h-jlund",
+  "nome": "Højlund",
+  "time": "Napoli",
+  "nacionalidade": "Denmark",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "2003-02-04",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Brøndby",
+    "periodo": "2016",
+    "escudo": "br-ndby.png"
+   },
+   {
+    "time": "Holbæk B&I",
+    "periodo": "2016–2017",
+    "escudo": "holb-k-b-i.png"
+   },
+   {
+    "time": "FC Copenhagen",
+    "periodo": "2017–2022",
+    "escudo": "fc-copenhagen.png"
+   },
+   {
+    "time": "Sturm Graz",
+    "periodo": "2022",
+    "escudo": "sturm-graz.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/jop7ho1762288170.png"
+ },
+ {
+  "slug": "anguissa",
+  "nome": "Anguissa",
+  "time": "Napoli",
+  "nacionalidade": "Cameroon",
+  "posicao": "Midfielder",
+  "categoria": "europa",
+  "nascimento": "1995-11-16",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Marseille",
+    "periodo": "2015–2018",
+    "escudo": "marseille.png"
+   },
+   {
+    "time": "Fulham",
+    "periodo": "2018–2021",
+    "escudo": "fulham.png"
+   },
+   {
+    "time": "Villarreal",
+    "periodo": "2019–2020",
+    "escudo": "villarreal.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/bedkjv1762288303.png"
+ },
+ {
+  "slug": "pickford",
+  "nome": "Pickford",
+  "time": "Everton",
+  "nacionalidade": "England",
+  "posicao": "Goalkeeper",
+  "categoria": "europa",
+  "nascimento": "1994-03-07",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Sunderland",
+    "periodo": "2002–2017",
+    "escudo": "sunderland.png"
+   },
+   {
+    "time": "Darlington F.C.",
+    "periodo": "2012",
+    "escudo": "darlington-f-c.png"
+   },
+   {
+    "time": "Alfreton Town",
+    "periodo": "2013",
+    "escudo": "alfreton-town.png"
+   },
+   {
+    "time": "Burton",
+    "periodo": "2013",
+    "escudo": "burton.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/wt1c4n1756976358.png"
+ },
+ {
+  "slug": "xhaka",
+  "nome": "Xhaka",
+  "time": "Sunderland",
+  "nacionalidade": "Switzerland",
+  "posicao": "Defensive Midfield",
+  "categoria": "europa",
+  "nascimento": "1992-09-27",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "FC Basel",
+    "periodo": "2002–2012",
+    "escudo": "fc-basel.png"
+   },
+   {
+    "time": "Switzerland",
+    "periodo": "2011–2023",
+    "escudo": "switzerland.png"
+   },
+   {
+    "time": "Mönchengladbach",
+    "periodo": "2012–2016",
+    "escudo": "monchengladbach.png"
+   },
+   {
+    "time": "Arsenal",
+    "periodo": "2016–2023",
+    "escudo": "arsenal.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/2xa5dp1756903726.png"
+ },
+ {
+  "slug": "sancho",
+  "nome": "Sancho",
+  "time": "Aston Villa",
+  "nacionalidade": "England",
+  "posicao": "Left Midfield",
+  "categoria": "europa",
+  "nascimento": "2000-03-25",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Watford",
+    "periodo": "2007–2015",
+    "escudo": "watford.png"
+   },
+   {
+    "time": "Manchester City",
+    "periodo": "2015–2017",
+    "escudo": "manchester-city.png"
+   },
+   {
+    "time": "Dortmund",
+    "periodo": "2017–2021",
+    "escudo": "dortmund.png"
+   },
+   {
+    "time": "Borussia Dortmund",
+    "periodo": "2024",
+    "escudo": "borussia-dortmund.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/1bzs6e1756984197.png"
+ },
+ {
+  "slug": "morata",
+  "nome": "Morata",
+  "time": "Galatasaray",
+  "nacionalidade": "Spain",
+  "posicao": "Centre-Forward",
+  "categoria": "europa",
+  "nascimento": "1992-10-23",
+  "localNascimento": "",
+  "exTimes": [
+   {
+    "time": "Real Madrid B",
+    "periodo": "2010–2013",
+    "escudo": "real-madrid-b.png"
+   },
+   {
+    "time": "Real Madrid",
+    "periodo": "2010–2017",
+    "escudo": "real-madrid.png"
+   },
+   {
+    "time": "Juventus",
+    "periodo": "2014–2016",
+    "escudo": "juventus.png"
+   },
+   {
+    "time": "Chelsea",
+    "periodo": "2017–2020",
+    "escudo": "chelsea.png"
+   }
+  ],
+  "baixadoEm": "2026-07-11",
+  "urlCutout": "https://r2.thesportsdb.com/images/media/player/cutout/5cci4b1764278358.png"
+ }
+]
