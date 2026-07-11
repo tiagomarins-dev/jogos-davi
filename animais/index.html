@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Jogo dos Animais 🦁</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦁</text></svg>">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; user-select: none; -webkit-user-select: none; }
+  html, body { height: 100%; overflow: hidden; }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    /* céu de fazendinha: azul em cima, verde embaixo */
+    background: linear-gradient(180deg, #64b5f6 0%, #90caf9 45%, #a5d6a7 45%, #66bb6a 100%);
+    display: flex; flex-direction: column;
+    touch-action: manipulation;
+  }
+
+  /* ===== Silhueta (metade de cima) ===== */
+  .palco {
+    flex: 1.2; display: flex; justify-content: center; align-items: center;
+    position: relative;
+  }
+  .nuvem {
+    background: rgba(255,255,255,.92);
+    border-radius: 50%;
+    width: min(62vmin, 82vw); height: min(52vmin, 60vw);
+    display: flex; justify-content: center; align-items: center;
+    box-shadow: 0 10px 30px rgba(0,0,0,.15);
+  }
+  #silhueta {
+    font-size: min(36vmin, 46vw);
+    line-height: 1;
+    filter: brightness(0);
+    transition: transform .3s;
+  }
+  /* festa: silhueta vira o animal colorido e dança */
+  .festa #silhueta { filter: none; animation: dancar .5s ease infinite alternate; }
+  @keyframes dancar {
+    from { transform: scale(1) rotate(-6deg); }
+    to   { transform: scale(1.18) rotate(6deg); }
+  }
+
+  /* ===== Opções (metade de baixo) ===== */
+  .opcoes {
+    flex: 1; display: flex; justify-content: center; align-items: center;
+    gap: 4vmin; padding: 0 3vmin 5vmin;
+  }
+  .opcao {
+    background: rgba(255,255,255,.9);
+    border: none; border-radius: 26px;
+    font-size: min(20vmin, 26vw);
+    line-height: 1;
+    padding: 3vmin;
+    min-width: 26vmin; min-height: 26vmin;
+    display: flex; justify-content: center; align-items: center;
+    box-shadow: 0 8px 20px rgba(0,0,0,.2);
+    cursor: pointer;
+    touch-action: manipulation; -webkit-tap-highlight-color: transparent;
+    transition: transform .15s, opacity .3s;
+  }
+  .opcao:active { transform: scale(.92); }
+  /* erro: balança e apaga um pouco — sem som feio, sem X vermelho */
+  .opcao.errou { animation: balancar .45s ease; opacity: .35; pointer-events: none; }
+  @keyframes balancar {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-12px) rotate(-4deg); }
+    75% { transform: translateX(12px) rotate(4deg); }
+  }
+  .opcao.acertou { animation: pular .5s ease; }
+  @keyframes pular {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.25); }
+  }
+
+  /* confete em canvas cobre a tela toda, sem capturar toque */
+  #confete { position: fixed; inset: 0; pointer-events: none; z-index: 10; }
+
+  /* botão discreto de voltar (canto, pequeno — pro adulto) */
+  .voltar {
+    position: fixed; top: 10px; left: 10px; z-index: 20;
+    font-size: 22px; text-decoration: none; opacity: .5;
+    background: rgba(255,255,255,.7); border-radius: 50%;
+    width: 42px; height: 42px; display: flex; justify-content: center; align-items: center;
+  }
+</style>
+</head>
+<body>
+  <a class="voltar" href="../" aria-label="Voltar">🎮</a>
+
+  <div class="palco">
+    <div class="nuvem"><span id="silhueta">🐘</span></div>
+  </div>
+  <div class="opcoes" id="opcoes"></div>
+  <canvas id="confete"></canvas>
+
+<script>
+// ===== Animais: emoji de CORPO INTEIRO (rosto vira borrão na silhueta) =====
+const ANIMAIS = [
+  { emoji: '🐘', nome: 'elefante',   slug: 'elefante' },
+  { emoji: '🦒', nome: 'girafa',     slug: 'girafa' },
+  { emoji: '🦓', nome: 'zebra',      slug: 'zebra' },
+  { emoji: '🐄', nome: 'vaca',       slug: 'vaca' },
+  { emoji: '🐖', nome: 'porco',      slug: 'porco' },
+  { emoji: '🐢', nome: 'tartaruga',  slug: 'tartaruga' },
+  { emoji: '🦖', nome: 'dinossauro', slug: 'dinossauro' },
+  { emoji: '🐊', nome: 'jacaré',     slug: 'jacare' },
+  { emoji: '🦩', nome: 'flamingo',   slug: 'flamingo' },
+  { emoji: '🐫', nome: 'camelo',     slug: 'camelo' },
+  { emoji: '🐕', nome: 'cachorro',   slug: 'cachorro' },
+  { emoji: '🐈', nome: 'gato',       slug: 'gato' },
+  { emoji: '🐎', nome: 'cavalo',     slug: 'cavalo' },
+  { emoji: '🐒', nome: 'macaco',     slug: 'macaco' },
+  { emoji: '🐍', nome: 'cobra',      slug: 'cobra' },
+  { emoji: '🐬', nome: 'golfinho',   slug: 'golfinho' },
+  { emoji: '🐳', nome: 'baleia',     slug: 'baleia' },
+  { emoji: '🦀', nome: 'caranguejo', slug: 'caranguejo' },
+  { emoji: '🦆', nome: 'pato',       slug: 'pato' },
+  { emoji: '🐓', nome: 'galo',       slug: 'galo' },
+  { emoji: '🦉', nome: 'coruja',     slug: 'coruja' },
+  { emoji: '🐟', nome: 'peixe',      slug: 'peixe' },
+  { emoji: '🦋', nome: 'borboleta',  slug: 'borboleta' },
+  { emoji: '🐇', nome: 'coelho',     slug: 'coelho' },
+  { emoji: '🦘', nome: 'canguru',    slug: 'canguru' },
+  { emoji: '🦈', nome: 'tubarão',    slug: 'tubarao' },
+  { emoji: '🐙', nome: 'polvo',      slug: 'polvo' },
+];
+
+// ===== Estado =====
+const estado = {
+  certo: null,        // animal da rodada
+  anterior: null,     // evita repetir o mesmo animal em sequência
+  acertos: 0,         // progressão silenciosa: 2 opções → 3 após 5 acertos
+  travado: false,     // durante a festa, ignora toques (mão de criança esmaga a tela)
+};
+
+// ===== Áudio: arquivos gravados com a Luciana; voz do navegador é só fallback =====
+function falarNome(animal) {
+  const audio = new Audio('audio/' + animal.slug + '.m4a');
+  audio.play().catch(() => {
+    // fallback: voz do navegador (se o arquivo faltar ou o play falhar)
+    try {
+      const fala = new SpeechSynthesisUtterance('É ' + (animal.nome === 'girafa' || animal.nome === 'zebra' || animal.nome === 'vaca' || animal.nome === 'tartaruga' || animal.nome === 'cobra' || animal.nome === 'baleia' || animal.nome === 'coruja' || animal.nome === 'borboleta' ? 'a ' : 'o ') + animal.nome + '!');
+      fala.lang = 'pt-BR';
+      speechSynthesis.speak(fala);
+    } catch { /* sem voz: o confete já é festa */ }
+  });
+}
+
+// ===== Som de vitória (osciladores, mesmo padrão do jogo de futebol) =====
+let ctxAudio = null;
+function tocarVitoria() {
+  if (!ctxAudio) {
+    const AC = window.AudioContext || window.webkitAudioContext;
+    if (AC) ctxAudio = new AC();
+  }
+  if (!ctxAudio) return;
+  if (ctxAudio.state === 'suspended') ctxAudio.resume();
+  [523, 659, 784, 1047].forEach((f, i) => {
+    const osc = ctxAudio.createOscillator();
+    const gain = ctxAudio.createGain();
+    osc.frequency.value = f;
+    gain.gain.setValueAtTime(0.12, ctxAudio.currentTime + i * 0.1);
+    gain.gain.exponentialRampToValueAtTime(0.001, ctxAudio.currentTime + i * 0.1 + 0.3);
+    osc.connect(gain).connect(ctxAudio.destination);
+    osc.start(ctxAudio.currentTime + i * 0.1);
+    osc.stop(ctxAudio.currentTime + i * 0.1 + 0.35);
+  });
+}
+
+// ===== Confete (canvas de partículas, sem lib) =====
+const canvas = document.getElementById('confete');
+const ctx2d = canvas.getContext('2d');
+let particulas = [];
+function redimensionarCanvas() {
+  canvas.width = innerWidth;
+  canvas.height = innerHeight;
+}
+addEventListener('resize', redimensionarCanvas);
+redimensionarCanvas();
+
+function soltarFogos() {
+  const cores = ['#ff5252', '#ffd740', '#69f0ae', '#40c4ff', '#e040fb', '#ffab40'];
+  for (let i = 0; i < 140; i++) {
+    particulas.push({
+      x: innerWidth / 2, y: innerHeight * 0.45,
+      vx: (Math.random() - 0.5) * 16,
+      vy: -Math.random() * 14 - 4,
+      tam: Math.random() * 8 + 4,
+      cor: cores[Math.floor(Math.random() * cores.length)],
+      rot: Math.random() * Math.PI,
+      vida: 1,
+    });
+  }
+}
+
+// loop de animação: só desenha enquanto há partículas vivas
+function animarConfete() {
+  ctx2d.clearRect(0, 0, canvas.width, canvas.height);
+  particulas.forEach(p => {
+    p.x += p.vx; p.y += p.vy;
+    p.vy += 0.35;           // gravidade
+    p.rot += 0.1;
+    p.vida -= 0.008;
+    ctx2d.save();
+    ctx2d.translate(p.x, p.y);
+    ctx2d.rotate(p.rot);
+    ctx2d.globalAlpha = Math.max(p.vida, 0);
+    ctx2d.fillStyle = p.cor;
+    ctx2d.fillRect(-p.tam / 2, -p.tam / 2, p.tam, p.tam * 0.6);
+    ctx2d.restore();
+  });
+  particulas = particulas.filter(p => p.vida > 0 && p.y < canvas.height + 40);
+  requestAnimationFrame(animarConfete);
+}
+animarConfete();
+
+// ===== Rodada =====
+function sortear(lista) {
+  return lista[Math.floor(Math.random() * lista.length)];
+}
+
+function novaRodada() {
+  estado.travado = false;
+  document.body.classList.remove('festa');
+
+  // sorteia o certo (nunca o mesmo da rodada anterior)
+  let certo;
+  do { certo = sortear(ANIMAIS); } while (estado.anterior && certo.slug === estado.anterior.slug);
+  estado.certo = certo;
+  estado.anterior = certo;
+
+  document.getElementById('silhueta').textContent = certo.emoji;
+
+  // 2 opções pra começar; 3 depois de 5 acertos (progressão silenciosa)
+  const qtd = estado.acertos >= 5 ? 3 : 2;
+  const distratores = [];
+  while (distratores.length < qtd - 1) {
+    const d = sortear(ANIMAIS);
+    if (d.slug !== certo.slug && !distratores.some(x => x.slug === d.slug)) distratores.push(d);
+  }
+  const opcoes = [certo, ...distratores].sort(() => Math.random() - 0.5);
+
+  const caixa = document.getElementById('opcoes');
+  caixa.innerHTML = '';
+  opcoes.forEach(animal => {
+    const btn = document.createElement('button');
+    btn.className = 'opcao';
+    btn.textContent = animal.emoji;
+    btn.addEventListener('pointerdown', () => tocou(btn, animal));
+    caixa.appendChild(btn);
+  });
+}
+
+function tocou(btn, animal) {
+  if (estado.travado) return;
+  if (animal.slug === estado.certo.slug) {
+    // 🎉 festa: revela colorido, dança, fala o nome, confete e som
+    estado.travado = true;
+    estado.acertos++;
+    btn.classList.add('acertou');
+    document.body.classList.add('festa');
+    falarNome(animal);
+    tocarVitoria();
+    soltarFogos();
+    setTimeout(soltarFogos, 500);
+    setTimeout(novaRodada, 2800);
+  } else {
+    // erro sem punição: balança, apaga, e o jogo espera tentar de novo
+    btn.classList.add('errou');
+  }
+}
+
+novaRodada();
+</script>
+</body>
+</html>
